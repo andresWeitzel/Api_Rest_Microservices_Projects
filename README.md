@@ -3,7 +3,7 @@
 
 <div align = "center">
 
-  ##  <img width="57" height="57" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/setting-icons.gif" />  Api-Rest / Microservices
+  ##  <img width="57" height="67" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/setting-icons.gif" />  Api-Rest / Microservices
 
 </div>
 

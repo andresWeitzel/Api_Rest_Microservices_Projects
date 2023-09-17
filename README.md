@@ -9,18 +9,24 @@
 
 <br>
 
-<div align="center">
-<p align="center">
 
+ <!------MICROSERVICIOS INMOBILIARIA SPRING CLOUD------>
+
+<div align="center">
+  
  ### { Microservicios con Spring Boot, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Spring Data JPA, Resilience4J, Lombok, Maven, Postman, Postgres, Mysql y otras Tecnologías }
 
-  <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" >
-
+  
+  <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
+ <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" >
+  </a>
   
  ###  Repositorio | PlayList
+
+  ### [[Repositorio]](https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe)
+
   
  <div style="display: inline-block;"> 
-   <div>
   <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
@@ -29,29 +35,31 @@
   </a>
  </div>
 
-   ### Tecnologías Empleadas 
+   ### Stack Empleado 
   
  </p>
 
  <div style="display: inline-block;">
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
-  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
-  <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-      <img width="47" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
+    <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
+    <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+    <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
+    <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
+    <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
+    <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+    <img width="47" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
+    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
     <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
-  </div>
-  </div>
+    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
+    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
+</div>
+</div>
+
+   <!------FIN MICROSERVICIOS INMOBILIARIA SPRING CLOUD------>
   
   
 

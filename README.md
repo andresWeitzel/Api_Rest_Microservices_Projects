@@ -14,7 +14,7 @@
 
 <div align="center">
   
- ####  Microservicios con Spring Boot, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Spring Data JPA, Resilience4J, Lombok, Maven, Postman, Postgres, Mysql y otras Tecnologías.
+ ###  Implementación de Microservicios para inmobiliaria con Spring Boot, Spring Cloud, Spring Data JPA, Resilience4J, Grafana, Prometheus, Lombok, Maven, Postman, Api Restful, Postgres, Mysql y otras Tecnologías.
 
   
   <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">

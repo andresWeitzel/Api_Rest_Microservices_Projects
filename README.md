@@ -71,7 +71,7 @@
  
 <div align="center">
   
- ### { Api Rest para el manejo estadístico de producción y ventas de bioetanol implementado con Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda entre otros... }
+ ### Api Rest para el manejo estadístico de producción y ventas de bioetanol implementado con Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, entre otros.
  
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
@@ -116,7 +116,7 @@
 <div align="center">
 <p align="center">
 
- ### { Api Rest para el manejo de Microcomponentes implementado con Spring Boot, Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Maven, Lombok, Postman, Log4j, Git, SQLDeveloper, Oracle XE 21c y Otras Tecnologías. }
+ ### Api Rest para el manejo de Microcomponentes implementado con Spring Boot, Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Maven, Lombok, Postman, Log4j, Git, SQLDeveloper, Oracle XE 21c y Otras Tecnologías.
 
   <img src="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot/blob/master/doc/api/componentes-lits.png" >
 
@@ -174,7 +174,7 @@
 <div align="center">
 <p align="center">
 
- ### { Api Rest para el Microservice App_MicroFrontEnd_Productos con Spring Boot, Spring MVC, Spring Security, JWT , Spring Data JPA, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Postman, Log4j, Git, DBeaver, pgAdmin y PostgreSQL }
+ ### Api Rest para el Microservice App_MicroFrontEnd_Productos con Spring Boot, Spring MVC, Spring Security, JWT , Spring Data JPA, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Postman, Log4j, Git, DBeaver, pgAdmin y PostgreSQL.
 
   <img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
 
@@ -230,7 +230,7 @@
 <div align="center">
 <p align="center">
 
- ### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica }
+ ### Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica.
 
   <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/swagger/doc_openapi_componenteController/listado_componentes.png" >
 
@@ -287,7 +287,7 @@
 <div align="center">
 <p align="center">
 
- ### { Api Rest acerca de Productos Electrónicos con Spring Boot, Spring Security, Spring Data MongoDB, SpringFox, Swagger UI, Maven, Lombok, Log4j, Git y MongoDB }
+ ### Api Rest acerca de Productos Electrónicos con Spring Boot, Spring Security, Spring Data MongoDB, SpringFox, Swagger UI, Maven, Lombok, Log4j, Git y MongoDB.
 
  <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/doc/controllers/inicioDocSwagger.png" >
 
@@ -349,7 +349,7 @@
 <div align="center">
 <p align="center">
 
- ### { Desarrollo de una Api Rest con Spring Boot, Spring Security, JWT, etc sobre Productos Electrónicos  }
+ ### Desarrollo de una Api Rest con Spring Boot, Spring Security, JWT, etc sobre Productos Electrónicos.
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
 
@@ -398,7 +398,7 @@
 <div align="center">
 <p align="center">
 
- ### {  Colaboración en un Proyecto sobre el Covid-19 Área Core/Api-Rest con PHP  }
+ ### Colaboración en un Proyecto sobre el Covid-19 Área Core/Api-Rest con PHP.
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
 

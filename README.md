@@ -67,6 +67,47 @@
 <br>
 <br>
 
+ <!------ApiRest_Dispositivos_Electronicos_ExpressJS------>
+ 
+<div align="center">
+  
+ ### Api Rest acerca de dispositivos electrónicos implementado con Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, otros. 
+ 
+  <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
+  <img src="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >
+  </a>
+
+ ### [[Repositorio]](https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+  
+ ###  Stack implementado
+  
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />        
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" /> 
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+ </div>
+<!------FIN ApiRest_Dispositivos_Electronicos_ExpressJS------>
+
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
  <!------Api_Bioetanol_Estadisticas_DynamoDB_AWS------>
  
 <div align="center">
@@ -110,6 +151,8 @@
 <br>
 <br>
 <br>
+
+
 
 
 

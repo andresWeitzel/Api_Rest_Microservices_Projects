@@ -1,4 +1,4 @@
-
+![imagen](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios/assets/58787260/49c13b55-28d6-4e85-a0c8-225d78927902)![imagen](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios/assets/58787260/7d253504-d1ce-4634-baf8-bc7e08289094)
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN API-REST MICROSERVICES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <div align = "center">
@@ -92,6 +92,8 @@
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
+   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodejs.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />        

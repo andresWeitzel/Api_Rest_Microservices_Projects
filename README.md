@@ -278,7 +278,7 @@
    <a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
    </a>
-     <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L">
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
    </a>
   </div>
@@ -326,15 +326,12 @@
    <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/swagger/doc_openapi_componenteController/listado_componentes.png" >
 
 
-  
   ### Repository | PlayList
   
   <div style="display: inline-block;">
-    <div>
    <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
    </a>
-     
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
    </a>
@@ -383,19 +380,14 @@
   ### Repository | PlayList
   
   <div style="display: inline-block;">
-    <div>
     <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
    </a>
-     
    <a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
    </a>
   </div>
 
-
-
-  </div>
    
 ### Technology Stack Used
 
@@ -492,9 +484,6 @@
 
 
 ### Technology Stack Used
-  
-  </p>
-
 
   <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" />
@@ -504,7 +493,6 @@
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
      <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
- 
    </div>
    </div>
  

@@ -80,7 +80,7 @@
  <img src="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >
 </a>
 
-### [[Repository]](https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8- yp52IcZDs5y)
+### [[Repository]](https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
   
 <div style="display: inline-block;">
  <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">

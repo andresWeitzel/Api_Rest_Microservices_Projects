@@ -121,7 +121,7 @@
  
 <div align="center">
   
-  ### Api Rest for the management of shipments, products, points, routes, etc., exemplifying part of the development architecture of OrdersYa Shipments implemented with NestJS, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others .
+  ### Rest Api for the management of shipments, products, points, routes, etc., exemplifying part of the Orders Now Shipments development architecture implemented with NestJS, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others.
  
    <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
    <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >

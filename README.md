@@ -210,34 +210,28 @@
 <br>
 <br>
 
-
-
-
+ <!------ApiRest_Microcomponentes_SpringBoot_Oracle------>
 
 <div align="center">
-<p align="center">
 
  ### Api Rest para el manejo de Microcomponentes implementado con Spring Boot, Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Maven, Lombok, Postman, Log4j, Git, SQLDeveloper, Oracle XE 21c y Otras Tecnologías.
 
+  <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
   <img src="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot/blob/master/doc/api/componentes-lits.png" >
+  </a>
 
- ###  Repositorio | PlayList
-  
+  ### [[Repositorio]](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S)
+    
  <div style="display: inline-block;"> 
-   <div>
   <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S">
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
 
-
-   ### Tecnologías Empleadas 
-  
- </p>
-
+   ### Stack Implementado
 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
@@ -257,7 +251,7 @@
   </div>
   </div>
 
-
+ <!------Fin ApiRest_Microcomponentes_SpringBoot_Oracle------>
 
 
 

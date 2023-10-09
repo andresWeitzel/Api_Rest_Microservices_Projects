@@ -9,7 +9,7 @@
 
 <div align="center">
 
-   ## <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Api-Rest & Microservices
+## <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Api-Rest & Microservices
 
 </div>
 
@@ -39,11 +39,9 @@
    </a>
   </div>
 
-    ### Stack Employee
+### Stack Employee
   
-  </p>
-
-  <div style="display: inline-block;">
+<div style="display: inline-block;">
      <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
      <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
      <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />

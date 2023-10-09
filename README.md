@@ -117,11 +117,11 @@
 <br>
 <br>
 
-  <!------ApiRest_PedidosYaEnvios_NestJS------>
+<!------ApiRest_PedidosYaEnvios_NestJS------>
  
 <div align="center">
   
-  ### Rest Api for the management of shipments, products, points, routes, etc., exemplifying part of the Orders Now Shipments development architecture implemented with NestJS, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others.
+### Rest Api for the management of shipments, products, points, routes, etc., exemplifying part of the Orders Now Shipments development architecture implemented with NestJS, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others.
  
    <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
    <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >
@@ -153,6 +153,7 @@
    <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
   </div>
   </div>
+  
 <!------END ApiRest_PedidosYaEnvios_NestJS------>
 
   
@@ -167,10 +168,10 @@
  
 <div align="center">
   
-  ### Api Rest for the statistical management of bioethanol production and sales implemented with Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, among others.
+### Api Rest for the statistical management of bioethanol production and sales implemented with Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, among others.
  
    <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTables.png" >
+   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
    </a>
 
   ### [[Repository]](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)

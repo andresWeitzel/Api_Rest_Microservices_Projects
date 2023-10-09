@@ -127,7 +127,7 @@
    <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >
    </a>
 
-  ### [[Repository]](https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8- yp52IcZDs5y)
+  ### [[Repository]](https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
   
   <div style="display: inline-block;">
    <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
@@ -138,7 +138,7 @@
    </a>
   </div>
   
-  ### Stack implemented
+  ### Used Stack
   
   <div style="display: inline-block;">
    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -184,7 +184,7 @@
    </a>
   </div>
   
-  ### Stack implemented
+  ### Used Stack
   
   <div style="display: inline-block;">
    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -228,7 +228,7 @@
    </a>
   </div>
 
-    ### Stack Implemented
+### Used Stack
 
   <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />

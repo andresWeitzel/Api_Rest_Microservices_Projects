@@ -39,7 +39,7 @@
    </a>
   </div>
 
-### Stack Employee
+### Used Stack
   
 <div style="display: inline-block;">
      <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -60,7 +60,7 @@
 </div>
 </div>
 
-    <!------END SPRING CLOUD REAL ESTATE MICROSERVICES------>
+<!------END SPRING CLOUD REAL ESTATE MICROSERVICES------>
 
 
 <br>

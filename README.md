@@ -16,7 +16,7 @@
 <br>
 
 
-  <!------SPRING CLOUD REAL ESTATE MICROSERVICES------>
+<!------SPRING CLOUD REAL ESTATE MICROSERVICES------>
 
 <div align="center">
   
@@ -70,30 +70,30 @@
 <br>
 <br>
 
-  <!------ApiRest_Electronic_Devices_ExpressJS------>
+<!------ApiRest_Electronic_Devices_ExpressJS------>
  
 <div align="center">
   
-  ### Rest Api about electronic devices implemented with Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, others.
+### Rest Api about electronic devices implemented with Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, others.
  
-   <a href="https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS" target="_blank">
-   <img src="https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >
-   </a>
+<a href="https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS" target="_blank">
+ <img src="https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >
+</a>
 
-  ### [[Repository]](https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8- yp52IcZDs5y)
+### [[Repository]](https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8- yp52IcZDs5y)
   
-  <div style="display: inline-block;">
-   <a href="https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS" target="_blank">
-     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-   </a>
-    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-   </a>
-  </div>
+<div style="display: inline-block;">
+ <a href="https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS" target="_blank">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+ </a>
+ <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+ </a>
+</div>
   
-  ### Stack implemented
+### Used Stack
   
-  <div style="display: inline-block;">
+<div style="display: inline-block;">
    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
     <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
     <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
@@ -103,8 +103,8 @@
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
    <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-  </div>
-  </div>
+</div>
+</div>
 <!------END ApiRest_Electronic_Devices_ExpressJS------>
 
 

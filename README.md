@@ -39,7 +39,7 @@
    </a>
   </div>
 
-### Used Stack
+### Technology Stack Used
   
 <div style="display: inline-block;">
      <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -91,7 +91,7 @@
  </a>
 </div>
   
-### Used Stack
+### Technology Stack Used
   
 <div style="display: inline-block;">
    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -138,7 +138,7 @@
    </a>
   </div>
   
-  ### Used Stack
+  ### Technology Stack Used
   
   <div style="display: inline-block;">
    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -185,7 +185,7 @@
    </a>
   </div>
   
-  ### Used Stack
+  ### Technology Stack Used
   
   <div style="display: inline-block;">
    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -229,7 +229,7 @@
    </a>
   </div>
 
-### Used Stack
+### Technology Stack Used
 
   <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
@@ -284,7 +284,7 @@
   </div>
 
 
-    ### Technologies Used
+### Technology Stack Used
   
   </p>
 
@@ -321,8 +321,6 @@
 
  
 <div align="center">
-<p align="center">
-
   ### Development of a Rest Api with Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j and Oracle on Components for Microelectronics.
 
    <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/swagger/doc_openapi_componenteController/listado_componentes.png" >
@@ -342,11 +340,8 @@
    </a>
   </div>
 
-    ### Technologies Used
+### Technology Stack Used
   
-  </p>
-
-
   <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
@@ -378,7 +373,6 @@
 
  
 <div align="center">
-<p align="center">
 
   ### Rest Api about Electronic Products with Spring Boot, Spring Security, Spring Data MongoDB, SpringFox, Swagger UI, Maven, Lombok, Log4j, Git and MongoDB.
 
@@ -403,10 +397,7 @@
 
   </div>
    
-    ### Technologies Used
-  
-  </p>
-
+### Technology Stack Used
 
   <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
@@ -440,8 +431,6 @@
 
  
 <div align="center">
-<p align="center">
-
   ### Development of a Rest API with Spring Boot, Spring Security, JWT, etc. on Electronic Products.
 
    <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
@@ -456,11 +445,8 @@
 
   </div>
 
-    ### Technologies Used
+### Technology Stack Used
   
-  </p>
-
-
   <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
@@ -489,7 +475,6 @@
 
  
 <div align="center">
-<p align="center">
 
   ### Collaboration on a Project on Covid-19 Core/Api-Rest Area with PHP.
 
@@ -506,7 +491,7 @@
   </div>
 
 
-    ### Technologies Used
+### Technology Stack Used
   
   </p>
 

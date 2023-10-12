@@ -262,32 +262,29 @@
 
 
 
-
+  <!------Start ApiRest_MicroFrontEnd_ProductosSupermercado------>
   
 <div align="center">
-<p align="center">
 
   ### Api Rest for the Microservice App_MicroFrontEnd_Productos with Spring Boot, Spring MVC, Spring Security, JWT, Spring Data JPA, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Postman, Log4j, Git, DBeaver, pgAdmin and PostgreSQL.
 
-   <img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
+   <a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado" target="_blank">
+      <img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
+   </a>
 
-  ### Repository | PlayList
-  
-  <div style="display: inline-block;">
-    <div>
+### [[Repository]](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L)
+      
+<div style="display: inline-block;">
    <a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
    </a>
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
    </a>
-  </div>
+</div>
 
 
 ### Technology Stack Used
-  
-  </p>
-
 
   <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
@@ -307,10 +304,8 @@
    </div>
    </div>
 
-
-
-
-
+<!------End ApiRest_MicroFrontEnd_ProductosSupermercado------>
+  
 <br>
 <br>
 <br>

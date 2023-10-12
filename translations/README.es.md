@@ -64,7 +64,7 @@
 </div>
 </div>
 
-   <!------FIN MICROSERVICIOS INMOBILIARIA SPRING CLOUD------>
+<!------FIN MICROSERVICIOS INMOBILIARIA SPRING CLOUD------>
 
 
 <br>
@@ -95,7 +95,7 @@
   </a>
  </div>
   
- ###  Stack implementado
+### Stack Empleado
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -142,7 +142,7 @@
   </a>
  </div>
   
- ###  Stack implementado
+### Stack Empleado
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -188,7 +188,7 @@
   </a>
  </div>
   
- ###  Stack implementado
+### Stack Empleado
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -232,7 +232,7 @@
   </a>
  </div>
 
-   ### Stack Implementado
+### Stack Empleado
 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
@@ -265,55 +265,50 @@
 
 
 
-
+<!------Start ApiRest_MicroFrontEnd_ProductosSupermercado------>
   
 <div align="center">
-<p align="center">
 
  ### Api Rest para el Microservice App_MicroFrontEnd_Productos con Spring Boot, Spring MVC, Spring Security, JWT , Spring Data JPA, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Postman, Log4j, Git, DBeaver, pgAdmin y PostgreSQL.
 
-  <img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
+<a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado" target="_blank">
+<img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
+</a>
 
- ###  Repositorio | PlayList
+### [[Repositorio]](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L)
+      
+<div style="display: inline-block;">
+   <a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado">
+     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+   </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L">
+     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+   </a>
+</div>
+
+
+### Stack Empleado
+
+<div style="display: inline-block;">
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
+     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
+   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
+     <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
+</div>
+</div>
+
+<!------End ApiRest_MicroFrontEnd_ProductosSupermercado------>
   
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-
-
-   ### Tecnologías Empleadas 
-  
- </p>
-
-
- <div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />  
-    <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
-    <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-  </div>
-  </div>
-
-
-
-
-
 <br>
 <br>
 <br>
@@ -323,50 +318,49 @@
 
 
  
+
+<!------Start ApiRest_Microelectronica_SpringBoot_Oracle------>
+ 
 <div align="center">
-<p align="center">
 
  ### Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica.
 
-  <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/swagger/doc_openapi_componenteController/listado_componentes.png" >
+<a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank">
+<img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/swagger/doc_openapi_componenteController/listado_componentes.png" >
+</a>
 
-
+### [[Repositorio]](https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj)
   
- ###  Repositorio | PlayList
+<div style="display: inline-block;">
+ <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+ </a>
+ <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+ </a>
+</div>
+
+### Stack Empleado
   
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-     
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
+<div style="display: inline-block;">
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
+<img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
+<img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
+<img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
+<img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
+</div>
+</div>
 
-   ### Tecnologías Empleadas 
-  
- </p>
-
-
- <div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />  
-    <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
-    <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
-  </div>
-  </div>
+ <!------End ApiRest_Microelectronica_SpringBoot_Oracle------>  
 
 
 

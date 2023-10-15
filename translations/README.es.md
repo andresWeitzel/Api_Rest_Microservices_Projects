@@ -470,44 +470,48 @@
 <br>
 
 
-
+<!------ Start ApiRestProductosSpringBoot ------>  
  
 <div align="center">
-<p align="center">
-
+     
  ### Desarrollo de una Api Rest con Spring Boot, Spring Security, JWT, etc sobre Productos Electrónicos.
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
+<a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
+ <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
+</a>
 
-  ###  Repositorio 
+
+### [[Repository]](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC)
+
   
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
+<div style="display: inline-block;">
+ <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+ </a>
+ <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+ </a>
+</div>
 
- </div>
 
-   ### Tecnologías Empleadas 
+  ### Tecnologías Empleadas 
   
- </p>
+  <div style="display: inline-block;">
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1512/PNG/512/40_104848.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2790/PNG/512/json_filetype_icon_177531.png" />
+    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+</div>
+</div>
 
-
- <div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1512/PNG/512/40_104848.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2790/PNG/512/json_filetype_icon_177531.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-  </div>
-  </div>
+ <!------ End ApiRestProductosSpringBoot ------>  
  
 
 
@@ -518,6 +522,7 @@
 <br>
 <br>
 <br>
+
 
 
  

@@ -521,23 +521,25 @@
 <br>
 
 
+ <!------ Start Project on Covid-19 ------>  
  
+
 <div align="center">
 
   ### Collaboration on a Project on Covid-19 Core/Api-Rest Area with PHP.
 
-   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
+  <a href="https://github.com/andresWeitzel/medmask" target="_blank">
+ <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
+</a>
 
-   ### Repository
-  
+### [[Repository]](https://github.com/andresWeitzel/medmask)
+
+
   <div style="display: inline-block;">
     <div>
    <a href="https://github.com/andresWeitzel/medmask">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
    </a>
-
-  </div>
-
 
 ### Technology Stack Used
 
@@ -552,12 +554,12 @@
    </div>
    </div>
  
-<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END SECTION API-REST MICROSERVICES>>>>>>>>>>>>> >>>>>>>>>>>>>>>-->
+ <!------ End Project on Covid-19 ------>  
+ 
 
-</br>
-  
-</br>
-
-</br>
-
-</br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

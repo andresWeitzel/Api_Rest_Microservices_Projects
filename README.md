@@ -467,22 +467,29 @@
 <br>
 
 
-
+<!------ Start ApiRestProductosSpringBoot ------>  
  
 <div align="center">
+     
   ### Development of a Rest API with Spring Boot, Spring Security, JWT, etc. on Electronic Products.
 
-   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
+<a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
+ <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
+</a>
 
-   ### Repository
+
+### [[Repository]](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC)
+
   
-  <div style="display: inline-block;">
-    <div>
-   <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos">
-     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-   </a>
+<div style="display: inline-block;">
+ <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+ </a>
+ <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+ </a>
+</div>
 
-  </div>
 
 ### Technology Stack Used
   
@@ -498,8 +505,10 @@
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
      <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-   </div>
-   </div>
+</div>
+</div>
+
+ <!------ End ApiRestProductosSpringBoot ------>  
  
 
 

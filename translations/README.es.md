@@ -481,7 +481,7 @@
 </a>
 
 
-### [[Repository]](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC)
+### [[Repositorio]](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC)
 
   
 <div style="display: inline-block;">
@@ -525,48 +525,47 @@
 
 
 
+ <!------ Start Project on Covid-19 ------>  
  
+
 <div align="center">
-<p align="center">
 
  ### Colaboración en un Proyecto sobre el Covid-19 Área Core/Api-Rest con PHP.
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
+  <a href="https://github.com/andresWeitzel/medmask" target="_blank">
+ <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
+</a>
 
-  ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/medmask">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
+### [[Repositorio]](https://github.com/andresWeitzel/medmask)
 
- </div>
+
+  <div style="display: inline-block;">
+    <div>
+   <a href="https://github.com/andresWeitzel/medmask">
+     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+   </a>
 
 
    ### Tecnologías Empleadas 
   
- </p>
-
-
- <div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+  <div style="display: inline-block;">
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+   </div>
+   </div>
  
-  </div>
-  </div>
+ <!------ End Project on Covid-19 ------>  
  
-<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN API-REST MICROSERVICES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-</br>
-  
-</br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-</br>
-
-</br>

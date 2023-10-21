@@ -44,18 +44,7 @@ Central repository for Rest API and Microservices type backend projects. The fol
  <br>
  
 * [Modelado, Desarrollo, Programación, etc, para db de inmobiliaria ](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-) [ PostgreSQL ]
-* [Base de Datos acerca de Productos de Microelectrónica](#base-de-datos-acerca-de-productos-de-microelectrónica-con-oracle-xe-21c-) [ Oracle XE21c ]
-* [Gestión de envíos, productos, etc, acerca de PedidosYa Envíos.](#gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-pedidosya-envíos-) [ MySQL ]
-* [Base de Datos acerca de Dispositivos Electrónicos.](#base-de-datos-acerca-de-dispositivos-electrónicos-con-postgresql-) [ PostgreSQL ]
-* [Micro Base de Datos acerca de Usuarios, Vendedores, etc, acerca de Mercado Libre.](#micro-base-de-datos-acerca-de-usuarios-vendedores-categorías-productos-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-mercado-libre-) [ MySQL ]
-* [Micro base de datos para la gestión de Productos (MercadoLibre).](#micro-base-de-datos-para-la-gestión-de-productos-mercadolibre-) [ MySQL ]
-* [MicroDB acerca de Microelectrónica para el Consumo de MicroServicios.](#microdb-acerca-de-microelectrónica-para-el-consumo-de-microservicios-con-oracle-xe-21c-) [ Oracle XE21c ]
-* [Micro Base de Datos acerca de dispositivos Cisco.](#micro-base-de-datos-para-el-manejo-de-dispositivos-cisco-ejemplificando-parte-de-la-arquitectura-de-datos-de-cisco-) [ MySQL ]
-* [MicroDB acerca de Productos Electrónicos.](#microdb-acerca-de-productos-electrónicos-con-mongodb-) [ MongoDB ]
-* [Base de Datos para la gestión de Supermercado.](#base-de-datos-acerca-de-un-supermercado-con-postgresql-) [ PostgreSQL ]
-* [MicroDB para la gestión de productos de Supermercado.](#microdb-para-app_microfrontend_productos_springboot_springsecurity_docker_kubernate_postgresql-) [ PostgreSQL ]
-* [MicroDB Inmobiliaria para el Consumo de MicroServicios.](#microdb-inmobiliaria-para-el-consumo-de-microservicios-con-postgresql-) [ PostgreSQL ]
-* [Modelado, Diseño y Gestión de una db de Indumentaria](#modelado-diseño-y-gestión-de-una-db-de-indumentaria-con-mysql-) [ MySQL ]
+
 
 
 <br>
@@ -73,7 +62,7 @@ Central repository for Rest API and Microservices type backend projects. The fol
 
 <div align="center">
   
-  ### Implementation of Microservices for real estate with Spring Boot, Spring Cloud, Spring Data JPA, Resilience4J, Grafana, Prometheus, Lombok, Maven, Postman, Restful Api, Postgres, Mysql and other Technologies.
+  ### Implementation of Microservices for real estate with Spring Boot, Spring Cloud, Grafana, Prometheus and other Technologies [🔝](#índice-)
 
   
    <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">

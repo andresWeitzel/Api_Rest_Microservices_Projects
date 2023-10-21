@@ -23,6 +23,8 @@
 
 Central repository for Rest API and Microservices type backend projects. The following technologies are implemented..
 
+ <br>
+
 | Type | Stack |
 | ------------- | ------------- |
 | Java | Spring Boot, Spring Cloud, Spring Data JPA, Resilience4J, Grafana, Prometheus, Lombok, Maven, Postman, Restful Api, Postgres, Mysql, others. | 
@@ -36,14 +38,14 @@ Central repository for Rest API and Microservices type backend projects. The fol
 
 <!------Start Index----->
 
-## Índice 📜
+## Index 📜
 
 <details>
- <summary> Ver </summary>
+ <summary> See </summary>
 
  <br>
  
-* [Modelado, Desarrollo, Programación, etc, para db de inmobiliaria ](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-) [ PostgreSQL ]
+* [Implementation of Microservices for real estate](#implementation-of-microservices-for-real-estate-with-spring-boot-spring-cloud-grafana-prometheus-and-other-technologies-) [ Spring Boot, Spring Cloud, Grafana, Prometheus, others ]
 
 
 
@@ -62,7 +64,7 @@ Central repository for Rest API and Microservices type backend projects. The fol
 
 <div align="center">
   
-  ### Implementation of Microservices for real estate with Spring Boot, Spring Cloud, Grafana, Prometheus and other Technologies [🔝](#índice-)
+  ### Implementation of Microservices for real estate with Spring Boot, Spring Cloud, Grafana, Prometheus and other Technologies [🔝](#index-)
 
   
    <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">

@@ -1,8 +1,8 @@
 <div align = "center">
 <img src="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects/blob/master/doc/assets/img/api-rest.png" >
-
 </div>
 
+<br>
 
 <div align="right">
      <a href="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects/blob/master/translations/README.es.md" target="_blank">
@@ -23,9 +23,11 @@
 
 Central repository for Rest API and Microservices type backend projects. The following technologies are implemented..
 
-* Java Stack: Spring Boot, Spring Cloud, Spring Data JPA, Resilience4J, Grafana, Prometheus, Lombok, Maven, Postman, Restful Api, Postgres, Mysql, others.
-* Javascript Stack: Express, Nodejs, Nestjs, Typeorm, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, others.
-* AWS Stack: Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Amazon RDS, Systems Manager Parameter Store, Lambda, others.
+| Type | Stack |
+| ------------- | ------------- |
+| Java | Spring Boot, Spring Cloud, Spring Data JPA, Resilience4J, Grafana, Prometheus, Lombok, Maven, Postman, Restful Api, Postgres, Mysql, others. | 
+| Javascript | Express, Nodejs, Nestjs, Typeorm, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, others  |
+| AWS | Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Amazon RDS, Systems Manager Parameter Store, Lambda, others. |
 
 
  <br>
@@ -33,6 +35,7 @@ Central repository for Rest API and Microservices type backend projects. The fol
  <br>
 
 <!------Start Index----->
+
 ## Índice 📜
 
 <details>

@@ -21,7 +21,7 @@
 
 <br>
 
-Central repository for Rest API and Microservices type backend projects. The following technologies are implemented..
+Central repository for Rest API and Microservices type backend projects.
 
  <br>
 

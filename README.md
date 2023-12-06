@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Api-Rest & Microservices
+## <img width="30" height="30" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Api-Rest & Microservices
 
 </div>
 

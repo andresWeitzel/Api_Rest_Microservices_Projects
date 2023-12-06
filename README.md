@@ -23,14 +23,18 @@
 
 Central repository for Rest API and Microservices type backend projects.
 
- <br>
+<br>
 
-| Type | Stack |
-| ------------- | ------------- |
-| Java | Spring Boot, Spring Cloud, Spring Data JPA, Resilience4J, Grafana, Prometheus, Lombok, Maven, Postman, Restful Api, Postgres, Mysql, others. | 
-| Javascript | Express, Nodejs, Nestjs, Typeorm, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, others  |
-| AWS | Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Amazon RDS, Systems Manager Parameter Store, Lambda, others. |
-
+ * Languages : Java, Javascript, Typescript, others.
+ * Frameworks : Spring Framework, Serverless, Prometheus, Express, Nestjs, others.
+ * Spring modules : Spring Boot, Spring Cloud, Spring Data JPA, others.
+ * AWS Services : Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, others.
+ * Technologies : Nodejs, others.
+ * ORM : Sequelize, TypeORM,  others.
+ * Databases : MySQL, PostgreSQL, DynamoDB, others.
+ * Libraries : Resilience4J, Lombok, dotenv, cors, aws-sdk-v3, nodemon, express-validator, others.
+ * Tools : Grafana, VSC, Postman, Maven, nodemon, swagger, Git, others.
+ * Testing : Jest, Supertest, Mocha & Chai.
 
  <br>
  

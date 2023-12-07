@@ -50,6 +50,7 @@ Central repository for Rest API and Microservices type backend projects.
  <br>
  
 * [Implementation of Microservices for real estate](#implementation-of-microservices-for-real-estate-with-spring-boot-spring-cloud-grafana-prometheus-and-other-technologies-) [ Spring Boot, Spring Cloud, Grafana, Prometheus, others ]
+* [Api Rest about electronic devices](#rest-api-about-electronic-devices-implemented-with-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-and-other-technologies-) [ NodeJS, Express, Sequelize, PostgreSQL, others ]
 
 
 
@@ -68,7 +69,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
   
-  ### Implementation of Microservices for real estate with Spring Boot, Spring Cloud, Grafana, Prometheus and other Technologies [🔝](#index-)
+  ### Implementation of Microservices for real estate with Spring Boot, Spring Cloud, Grafana, Prometheus and other Technologies. [🔝](#index-)
 
   
    <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
@@ -122,7 +123,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### Rest Api about electronic devices implemented with Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, others.
+### Rest Api about electronic devices implemented with Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL and other Technologies. [🔝](#index-)
  
 <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
  <img src="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >

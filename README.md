@@ -52,6 +52,7 @@ Central repository for Rest API and Microservices type backend projects.
 * [Implementation of Microservices for real estate](#implementation-of-microservices-for-real-estate-with-spring-boot-spring-cloud-grafana-prometheus-and-other-technologies-) [ Spring Boot, Spring Cloud, Grafana, Prometheus, others ]
 * [Api Rest about electronic devices](#rest-api-about-electronic-devices-implemented-with-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-and-other-technologies-) [ NodeJS, Express, Sequelize, PostgreSQL, others ]
 * [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
+* README on construction and maintenance
 
 
 

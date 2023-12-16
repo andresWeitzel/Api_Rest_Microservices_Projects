@@ -1,4 +1,8 @@
+<div align = "center">
+<img src="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects/blob/master/doc/assets/img/api-rest.png" >
+</div>
 
+<br>
 
 <div align="right">
     <a href="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects/blob/master/translations/README.es.md" target="_blank">
@@ -13,17 +17,59 @@
 
 ##  <img width="40" height="38" src="../doc/assets/gifs/api-rest.gif" />  Api-Rest & Microservicios
 
-
 </div>
 
 <br>
+
+Repositorio central para proyectos backend tipo Rest API y Microservicios.
+
+<br>
+
+  * Lenguajes: Java, Javascript, Typecript, otros.
+  * Frameworks: Spring Framework, Serverless, Prometheus, Express, Nestjs, otros.
+  * Módulos Spring: Spring Boot, Spring Cloud, Spring Data JPA, otros.
+  * Servicios AWS: Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, otros.
+  * Tecnologías: Nodejs, otras.
+  * ORM: Sequelize, TypeORM, otros.
+  * Bases de datos: MySQL, PostgreSQL, DynamoDB, otras.
+  * Bibliotecas: Resilience4J, Lombok, dotenv, cors, aws-sdk-v3, nodemon, express-validator, otras.
+  * Herramientas: Grafana, VSC, Postman, Maven, nodemon, swagger, Git, otras.
+  * Testing: Jest, Supertest, Mocha y Chai.
+
+  <br>
+ 
+  <br>
+
+<!------Start índice----->
+
+## Índice 📜
+
+<detalles>
+  <summary> Ver </summary>
+
+  <br>
+ 
+* [Implementación de Microservicios para el sector inmobiliario](#implementación-de-microservicios-para-el-inmobiliario-con-spring-boot-spring-cloud-grafana-prometheus-y-otras-tecnologías-) [ Spring Boot, Spring Cloud , Grafana, Prometeo, otros ]
+* [Api Rest sobre dispositivos electrónicos](#rest-api-about-electronic-devices-implemented-with-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql- y-otras-tecnologías-) [ NodeJS, Express, Sequelize, PostgreSQL, otros ]
+* [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest para la gestión-de-envíos-productos-puntos-rutas-etc-parte-ejemplificadora-de-la -pedidos-ahora-envíos-arquitectura-de-desarrollo-implementada-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
+* README sobre construcción y mantenimiento
+
+<br>
+
+</detalles>
+
+<!------Stop índice----->
+  
+  <br>
+ 
+  <br>
 
 
  <!------MICROSERVICIOS INMOBILIARIA SPRING CLOUD------>
 
 <div align="center">
   
- ###  Implementación de Microservicios para inmobiliaria con Spring Boot, Spring Cloud, Spring Data JPA, Resilience4J, Grafana, Prometheus, Lombok, Maven, Postman, Api Restful, Postgres, Mysql y otras Tecnologías.
+ ### Implementación de Microservicios para inmobiliaria con Spring Boot, Spring Cloud, Spring Data JPA, Resilience4J, Grafana, Prometheus, Lombok, Maven, Postman, Api Restful, Postgres, Mysql y otras Tecnologías. [🔝](#índice-)
 
   
   <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
@@ -79,7 +125,7 @@
  
 <div align="center">
   
- ### Api Rest acerca de dispositivos electrónicos implementado con Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, otros. 
+ ### Api Rest acerca de dispositivos electrónicos implementado con Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, otros. [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
   <img src="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >
@@ -126,7 +172,7 @@
  
 <div align="center">
   
- ### Api Rest para la gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de desarrollo de PedidosYa Envíos implementado con NestJS, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, otros.  
+ ### Api Rest para la gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de desarrollo de PedidosYa Envíos implementado con NestJS, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, otros. [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
   <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >

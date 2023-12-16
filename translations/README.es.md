@@ -44,19 +44,19 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 ## Índice 📜
 
-<detalles>
+<details>
   <summary> Ver </summary>
 
   <br>
  
-* [Implementación de Microservicios para el sector inmobiliario](#implementación-de-microservicios-para-el-inmobiliario-con-spring-boot-spring-cloud-grafana-prometheus-y-otras-tecnologías-) [ Spring Boot, Spring Cloud , Grafana, Prometeo, otros ]
-* [Api Rest sobre dispositivos electrónicos](#rest-api-about-electronic-devices-implemented-with-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql- y-otras-tecnologías-) [ NodeJS, Express, Sequelize, PostgreSQL, otros ]
-* [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest para la gestión-de-envíos-productos-puntos-rutas-etc-parte-ejemplificadora-de-la -pedidos-ahora-envíos-arquitectura-de-desarrollo-implementada-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
-* README sobre construcción y mantenimiento
+* [Implementación de Microservicios para el sector inmobiliario](#implementación-de-microservicios-para-inmobiliaria-con-spring-boot-spring-cloud-spring-data-jpa-resilience4j-grafana-prometheus-lombok-maven-postman-api-restful-postgres-mysql-y-otras-tecnologías-) [ Spring Boot, Spring Cloud , Grafana, Prometeo, otros ]
+* [Api Rest sobre dispositivos electrónicos](#api-rest-acerca-de-dispositivos-electrónicos-implementado-con-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-otros-) [ NodeJS, Express, Sequelize, PostgreSQL, otros ]
+* [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
+* README sobre construcción y mantenimiento.
 
 <br>
 
-</detalles>
+</details>
 
 <!------Stop índice----->
   

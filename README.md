@@ -1,15 +1,15 @@
 <div align = "center">
-<img src="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects/blob/master/doc/assets/img/api-rest.png" >
+<img src="./doc/assets/img/api-rest.png" >
 </div>
 
 <br>
 
 <div align="right">
-     <a href="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects/blob/master/translations/README.es.md" target="_blank">
-       <img src="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects/blob/master/doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
+     <a href="./translations/README.es.md" target="_blank">
+       <img src="./doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
    </a>
     <a href="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects" target="_blank">
-       <img src="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects/blob/master/doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+       <img src="./doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
    </a>
 </div>
 

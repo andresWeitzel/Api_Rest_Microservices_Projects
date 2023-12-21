@@ -54,7 +54,6 @@ Central repository for Rest API and Microservices type backend projects.
 * [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
 * [Api Rest for the statistical management of bioethanol production and sales.](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-implemented-with-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-among-others-) [ Serverless, DynamoDB, NodeJS, AWS, others ]
 * [Microservice for user management about Mercado Libre.](#microservice-for-user-management-ml-implemented-with-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-among-others-) [ Serverless, Mysql, Sequelize, Nodejs, others ]
-
 * README on construction and maintenance
 
 

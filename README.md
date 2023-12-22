@@ -54,6 +54,8 @@ Central repository for Rest API and Microservices type backend projects.
 * [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
 * [Api Rest for the statistical management of bioethanol production and sales.](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-implemented-with-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-among-others-) [ Serverless, DynamoDB, NodeJS, AWS, others ]
 * [Microservice for user management about Mercado Libre.](#microservice-for-user-management-ml-implemented-with-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-among-others-) [ Serverless, Mysql, Sequelize, Nodejs, others ]
+* [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
+* [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * README on construction and maintenance
 
 

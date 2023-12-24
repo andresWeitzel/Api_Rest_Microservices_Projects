@@ -56,6 +56,8 @@ Central repository for Rest API and Microservices type backend projects.
 * [Microservice for user management about Mercado Libre.](#microservice-for-user-management-ml-implemented-with-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-among-others-) [ Serverless, Mysql, Sequelize, Nodejs, others ]
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
+* [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
+* [Rest Api about Electronic Products.](#rest-api-about-electronic-products-with-spring-boot-spring-security-spring-data-mongodb-springfox-swagger-ui-maven-lombok-log4j-git-and-mongodb-) [ Spring Boot, SpringFox, MongoDB, others ] 
 * README on construction and maintenance
 
 
@@ -420,7 +422,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
 
-### Development of a Rest Api with Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j and Oracle on Components for Microelectronics.
+### Development of a Rest Api with Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j and Oracle on Components for Microelectronics. [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank">
 <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/swagger/doc_openapi_componenteController/listado_componentes.png" >
@@ -472,7 +474,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
 
-### Rest Api about Electronic Products with Spring Boot, Spring Security, Spring Data MongoDB, SpringFox, Swagger UI, Maven, Lombok, Log4j, Git and MongoDB.
+### Rest Api about Electronic Products with Spring Boot, Spring Security, Spring Data MongoDB, SpringFox, Swagger UI, Maven, Lombok, Log4j, Git and MongoDB. [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank">
  <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/doc/controllers/inicioDocSwagger.png" >

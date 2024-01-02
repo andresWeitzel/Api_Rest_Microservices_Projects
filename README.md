@@ -58,7 +58,8 @@ Central repository for Rest API and Microservices type backend projects.
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
 * [Rest Api about microElectronic Products.](#rest-api-about-electronic-products-with-spring-boot-spring-security-spring-data-mongodb-springfox-swagger-ui-maven-lombok-log4j-git-and-mongodb-) [ Spring Boot, SpringFox, MongoDB, others ]
-* [Collaboration on a Project on Covid-19 Core/Api-Rest Area with PHP.](##collaboration-on-a-project-on-covid-19-coreapi-rest-area-with-php-) [ Java, PHP, Mysql, others ]
+* [Rest Api about Generic Electronic Products.](#development-of-a-rest-api-with-spring-boot-spring-security-jwt-etc-on-electronic-products-) [ Spring Boot, Spring Security, JWT, MySQL, others ]
+* [Collaboration on a Project on Covid-19 Core/Api-Rest Area with PHP.](#collaboration-on-a-project-on-covid-19-coreapi-rest-area-with-php-) [ Java, PHP, Mysql, others ]
 
 
 

@@ -57,7 +57,8 @@ Central repository for Rest API and Microservices type backend projects.
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
-* [Rest Api about Electronic Products.](#rest-api-about-electronic-products-with-spring-boot-spring-security-spring-data-mongodb-springfox-swagger-ui-maven-lombok-log4j-git-and-mongodb-) [ Spring Boot, SpringFox, MongoDB, others ] 
+* [Rest Api about microElectronic Products.](#rest-api-about-electronic-products-with-spring-boot-spring-security-spring-data-mongodb-springfox-swagger-ui-maven-lombok-log4j-git-and-mongodb-) [ Spring Boot, SpringFox, MongoDB, others ]
+* [Rest Api about Electronic Products.](##development-of-a-rest-api-with-spring-boot-spring-security-jwt-etc-on-electronic-products-) [ Spring Boot, Spring Security, JWT, Mysql, others ]
 * README on construction and maintenance
 
 
@@ -596,6 +597,52 @@ Central repository for Rest API and Microservices type backend projects.
     <div>
    <a href="https://github.com/andresWeitzel/medmask">
      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+   </a>
+
+### Technology Stack Used
+
+  <div style="display: inline-block;">
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+   </div>
+   </div>
+ 
+ <!------ End Project on Covid-19 ------>  
+
+
+ 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+ <!------ Start Project on Covid-19 ------>  
+ 
+
+<div align="center">
+
+  ### Rest Api about Electronic Products.
+
+  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
+ <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/select/listadoProductos.jpg" >
+</a>
+
+### [[Repository]](https://github.com/andresWeitzel/Api_Rest_Spring_Productos)
+
+
+  <div style="display: inline-block;">
+    <div>
+   <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos">
+     <img width="60" height="60" src="ttps://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/select/listadoProductos.jpg" />
    </a>
 
 ### Technology Stack Used

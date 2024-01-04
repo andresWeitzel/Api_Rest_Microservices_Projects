@@ -21,7 +21,7 @@
 
 <br>
 
-Repositorio central para proyectos backend tipo Rest API y Microservicios.
+Repositorio central para proyectos backend tipo Rest API y Microservicios. 
 
 <br>
 

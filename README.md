@@ -34,7 +34,7 @@ Central repository for Rest API and Microservices type backend projects.
  * Databases : MySQL, PostgreSQL, DynamoDB, others.
  * Libraries : Resilience4J, Lombok, dotenv, cors, aws-sdk-v3, nodemon, express-validator, others.
  * Tools : Grafana, VSC, Postman, Maven, nodemon, swagger, Git, others.
- * Testing : Jest, Supertest, Mocha & Chai.
+ * Testing : Jest, Supertest, Mocha & Chai, others.
 
  <br>
  

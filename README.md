@@ -55,6 +55,7 @@ Central repository for Rest API and Microservices type backend projects.
 * [Api Rest for the statistical management of bioethanol production and sales.](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-implemented-with-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-among-others-) [ Serverless, DynamoDB, NodeJS, AWS, others ]
 * [Microservice for user management about Mercado Libre.](#microservice-for-user-management-ml-implemented-with-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-among-others-) [ Serverless, Mysql, Sequelize, Nodejs, others ]
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
+* [Centralized Version Control System Nodejs]() [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservice OpenWeather Nodejs Jest](#microservice-openweather-with-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-others-) [ NodeJS, Jest, Serverless-Framework, etc. ]
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
@@ -166,8 +167,6 @@ Central repository for Rest API and Microservices type backend projects.
 </div>
 <!------END ApiRest_Electronic_Devices_ExpressJS------>
 
-
-  
 
 <br>
 <br>
@@ -357,6 +356,48 @@ Central repository for Rest API and Microservices type backend projects.
 
 <!------End ApiRest_Microcomponentes_SpringBoot_Oracle------>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+<!------ Centralized Version Control System Nodejs ------>
+  
+<div align="center">
+
+### Centralized Version Control System Nodejs with Typescript, Nodejs, Jest, ExpressJS, others. [🔝](#index-)
+    
+  <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
+  <img src="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs/blob/master/doc/assets/img/centralized.png" >
+  </a> 
+
+  ###  [[Repository]](https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs) [|]() [[PlayList]]()
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs/blob/master/doc/assets/img/centralized.png" />
+  </a>
+   <a href="" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+ ### Used Stack
+
+ <div style="display: inline-block;">
+   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+ </div>
+  
+<!------FIN Centralized Version Control System Nodejs ------>
 
 
 <br>

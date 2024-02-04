@@ -53,6 +53,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 * [Api Rest sobre dispositivos electrónicos](#api-rest-acerca-de-dispositivos-electrónicos-implementado-con-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-otros-) [ NodeJS, Express, Sequelize, PostgreSQL, otros ]
 * [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
 * [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
+* [Microservicio Paypal Orders Express](#microservice-paypal-orders-with-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
 * [Microservicio OpenWeather Nodejs Jest](#microservicio-openweather-utilizando-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ NodeJS, Jest, Serverless-Framework, etc. ]
 * README en construcción y mantenimiento.
 
@@ -523,7 +524,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   
 <div align="center">
 
-### Sistema de control de versiones centralizado con Typescript, Nodejs, Jest, ExpressJS, otros. [🔝](#índice-)
+### Sistema de control de versiones centralizado utilizando Typescript, Nodejs, Jest, ExpressJS, otros. [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
   <img src="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs/blob/master/doc/assets/img/centralized.png" >
@@ -553,6 +554,49 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  </div>
   
 <!------FIN Centralized Version Control System Nodejs ------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+<!------ Microservice_Paypal_Orders_Express ------>
+  
+<div align="center">
+
+### Microservicio Paypal Orders utilizando Typescript, Nodejs, Jest, ExpressJS, others. [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express/blob/master/doc/assets/img/paypal_api.png" >
+  </a> 
+
+  ###  [[Repositorio]](https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express) [|]() [[PlayList]]()
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+ 
+ ###  Stack implementado
+
+ <div style="display: inline-block;">
+   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+ </div>
+  
+<!------FIN Microservice_Paypal_Orders_Express ------>
 
 
 <br>

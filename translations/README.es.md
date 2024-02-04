@@ -55,7 +55,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 * [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservicio Paypal Orders Express](#microservicio-paypal-orders-utilizando-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
 * [Microservicio OpenWeather Nodejs Jest](#microservicio-openweather-utilizando-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ NodeJS, Jest, Serverless-Framework, etc. ]
-* [Microservicio Employess NestJS](#microservice-for-employee-management-using-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-others-) [ NestJS, Typescript, TypeORM, etc. ]
+* [Microservicio Employess NestJS](#microservicio-para-la-gestión-de-empleados-utilizando-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-otros-) [ NestJS, Typescript, TypeORM, etc. ]
 * README en construcción y mantenimiento.
 
 <br>

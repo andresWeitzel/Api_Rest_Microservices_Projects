@@ -53,7 +53,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 * [Api Rest sobre dispositivos electrónicos](#api-rest-acerca-de-dispositivos-electrónicos-implementado-con-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-otros-) [ NodeJS, Express, Sequelize, PostgreSQL, otros ]
 * [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
 * [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
-* [Microservicio Paypal Orders Express](#microservice-paypal-orders-with-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
+* [Microservicio Paypal Orders Express](#microservicio-paypal-orders-utilizando-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
 * [Microservicio OpenWeather Nodejs Jest](#microservicio-openweather-utilizando-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ NodeJS, Jest, Serverless-Framework, etc. ]
 * README en construcción y mantenimiento.
 

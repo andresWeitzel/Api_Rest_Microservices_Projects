@@ -52,7 +52,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 * [Implementación de Microservicios para el sector inmobiliario](#implementación-de-microservicios-para-inmobiliaria-con-spring-boot-spring-cloud-spring-data-jpa-resilience4j-grafana-prometheus-lombok-maven-postman-api-restful-postgres-mysql-y-otras-tecnologías-) [ Spring Boot, Spring Cloud , Grafana, Prometeo, otros ]
 * [Api Rest sobre dispositivos electrónicos](#api-rest-acerca-de-dispositivos-electrónicos-implementado-con-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-otros-) [ NodeJS, Express, Sequelize, PostgreSQL, otros ]
 * [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
-* [Sistema de control de versiones centralizado](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]
+* [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservicio OpenWeather Nodejs Jest](#microservicio-openweather-utilizando-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ NodeJS, Jest, Serverless-Framework, etc. ]
 * README en construcción y mantenimiento.
 

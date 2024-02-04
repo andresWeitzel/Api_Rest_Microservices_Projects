@@ -52,7 +52,8 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 * [Implementación de Microservicios para el sector inmobiliario](#implementación-de-microservicios-para-inmobiliaria-con-spring-boot-spring-cloud-spring-data-jpa-resilience4j-grafana-prometheus-lombok-maven-postman-api-restful-postgres-mysql-y-otras-tecnologías-) [ Spring Boot, Spring Cloud , Grafana, Prometeo, otros ]
 * [Api Rest sobre dispositivos electrónicos](#api-rest-acerca-de-dispositivos-electrónicos-implementado-con-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-otros-) [ NodeJS, Express, Sequelize, PostgreSQL, otros ]
 * [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
-* README sobre construcción y mantenimiento.
+* [Microservicio OpenWeather Nodejs Jest](#microservicio-openweather-utilizando-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ NodeJS, Jest, Serverless-Framework, etc. ]
+* README en construcción y mantenimiento.
 
 <br>
 
@@ -507,6 +508,51 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 <!------End ApiRest_ElectroThingsV1_SpringBoot_MongoDB------>  
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+<!------Microservice OpenWeather Nodejs Jest ------>
+  
+<div align="center">
+
+### Microservicio OpenWeather utilizando Nodejs, Jest, Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, otros. [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/master/doc/assets/img/weather-data.png" >
+  </a> 
+
+  ###  [[Repositorio]](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [|]() [[PlayList]]()
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+ ###  Stack implementado
+
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+ </div>
+  
+<!------FIN Microservice OpenWeather Nodejs Jest ------>
 
 
 <br>

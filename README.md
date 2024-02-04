@@ -58,7 +58,7 @@ Central repository for Rest API and Microservices type backend projects.
 * [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservice Paypal Orders Express](#microservice-paypal-orders-with-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
 * [Microservice OpenWeather Nodejs Jest](#microservice-openweather-with-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-others-) [ NodeJS, Jest, Serverless-Framework, etc. ]
-* [Microservice Employess NestJS](https://github.com/andresWeitzel/Microservice_Employees_NestJS) [ NestJS, Typescript, TypeORM, etc. ]
+* [Microservice Employess NestJS](#microservice-for-employee-management-using-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-others-) [ NestJS, Typescript, TypeORM, etc. ]
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
 * [Rest Api about microElectronic Products.](#rest-api-about-electronic-products-with-spring-boot-spring-security-spring-data-mongodb-springfox-swagger-ui-maven-lombok-log4j-git-and-mongodb-) [ Spring Boot, SpringFox, MongoDB, others ]
@@ -502,7 +502,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Microservice for employee management using Nestjs, TypeORM, MySQL, Nodejs, Typescript, nodemon, git, others. [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
-  <img src="https://camo.githubusercontent.com/2093e1eb4bc9b4f31f6b65facf62aa81bfb0630639ed2607cc1006f2656f1cf7/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" >
+  <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >
   </a> 
 
   ###  [[Repository]](https://github.com/andresWeitzel/Microservice_Employees_NestJ) [|]() [[PlayList]]()

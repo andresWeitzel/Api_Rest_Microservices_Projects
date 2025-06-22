@@ -6,10 +6,10 @@
 
 <div align="right">
      <a href="./translations/README.es.md" target="_blank">
-       <img src="./doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
+       <img src="./doc/assets/icons/translation/arg-flag.jpg" width="10%" height="10%" />
    </a>
     <a href="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects" target="_blank">
-       <img src="./doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+       <img src="./doc/assets/icons/translation/eeuu-flag.jpg" width="10%" height="10%" />
    </a>
 </div>
 
@@ -48,12 +48,48 @@ Central repository for Rest API and Microservices type backend projects.
  <summary> See </summary>
 
  <br>
- 
-* [Implementation of Microservices for real estate](#implementation-of-microservices-for-real-estate-with-spring-boot-spring-cloud-grafana-prometheus-and-other-technologies-) [ Spring Boot, Spring Cloud, Grafana, Prometheus, others ]
+
+#### 🗂️ Projects
+* [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
+  
+  <div align="left">
+      <img width="24" height="24" src="./doc/assets/icons/backend/java/png/java.png" />
+      <img width="20" height="20" src="./doc/assets/icons/devops/png/maven.png" />
+      <img width="22" height="22" src="./doc/assets/icons/devops/png/postman.png" />
+      <img width="22" height="22" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="./doc/assets/icons/devops/png/grafana.png" /> 
+    <img width="20" height="20" src="./doc/assets/icons/devops/png/prometheus.png" />  
+      <img width="20" height="" src="./doc/assets/icons/backend/java/png/junit.png" />
+      <img width="20" height="20" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+      <img width="20" height="20" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
+    <img width="20" height="19" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
+    <img width="20" height="19" src="./doc/assets/icons/database/png/mysql.png" />  
+    <img width="20" height="20" src="./doc/assets/icons/database/png/postgres.png" />
+  </div> 
+
+* [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
+  
+  <div align="left">
+    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
+    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
+  </div>   
+
+* [Api Rest for the statistical management of bioethanol ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales--)
+  
+  <div align="left">
+    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
+    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+  </div>
+
 * [Api Rest about electronic devices](#rest-api-about-electronic-devices-implemented-with-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-and-other-technologies-) [ NodeJS, Express, Sequelize, PostgreSQL, others ]
 * [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
-* [Api Rest for the statistical management of bioethanol production and sales.](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-implemented-with-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-among-others-) [ Serverless, DynamoDB, NodeJS, AWS, others ]
-* [Microservice for user management about Mercado Libre.](#microservice-for-user-management-ml-implemented-with-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-among-others-) [ Serverless, Mysql, Sequelize, Nodejs, others ]
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
 * [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservice Paypal Orders Express](#microservice-paypal-orders-with-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
@@ -82,48 +118,143 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
   
-  ### Implementation of Microservices for real estate with Spring Boot, Spring Cloud, Grafana, Prometheus and other Technologies. [🔝](#index-)
+  ### Real Estate Microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   
    <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" >
+  <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/assets/img/MicroservicesArquitectura.png" >
    </a>
 
-   ### [[Repository]](https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe)
+ <div align="right">
+      <img width="24" height="24" src="./doc/assets/icons/backend/java/png/java.png" />
+      <img width="20" height="20" src="./doc/assets/icons/devops/png/maven.png" />
+      <img width="22" height="22" src="./doc/assets/icons/devops/png/postman.png" />
+      <img width="22" height="22" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="./doc/assets/icons/devops/png/grafana.png" /> 
+    <img width="20" height="20" src="./doc/assets/icons/devops/png/prometheus.png" />  
+      <img width="20" height="" src="./doc/assets/icons/backend/java/png/junit.png" />
+      <img width="20" height="20" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+      <img width="20" height="20" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
+    <img width="20" height="19" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
+    <img width="20" height="19" src="./doc/assets/icons/database/png/mysql.png" />  
+    <img width="20" height="20" src="./doc/assets/icons/database/png/postgres.png" />
+</div>   
 
-  
-  <div style="display: inline-block;">
-   <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot">
-     <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
-   </a>
-     <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe">
-     <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
-   </a>
-  </div>
 
-### Technology Stack Used
-  
-<div style="display: inline-block;">
-     <img width="40" height="38" src="./doc/assets/icons/back/springBoot.png" />
-     <img width="44" height="44" src="./doc/assets/icons/back/sts.png" />
-     <img width="40" height="40" src="./doc/assets/icons/back/analitic.png" />
-     <img width="40" height="40" src="./doc/assets/icons/back/api.png" />
-     <img width="47" height="40" src="./doc/assets/icons/database/mysql.png" />
-     <img width="40" height="40" src="./doc/assets/icons/database/postgres.png" />
-     <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-     <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
-     <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
-     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-     <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-     <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
 </div>
-</div>
+
+
 
 <!------END SPRING CLOUD REAL ESTATE MICROSERVICES------>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+ <!------MICROSERVICIO USUARIOS ML AWS------>
+ 
+<div align="center">
+  
+### Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)      [🔝](#index-)
+
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
+  </a>
+  <div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+  <img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png" />
+  <img width="30" height="30" src="./doc/assets/icons/devops/png/vsc.png" />
+  <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
+
+</div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+
+<!------FIN MICROSERVICIO USUARIOS ML AWS------>
+
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+ <!------START API_BIOETANOL_DYNAMO------>
+ 
+<div align="center">
+  
+### Api Rest for the statistical management of bioethanol production and sales ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+
+  <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
+  </a>
+  <div align="right">
+  
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+  <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+  <img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png" />
+  
+</div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+
+<!------END API_BIOETANOL_DYNAMO------>
 
 <br>
 <br>
@@ -215,96 +346,6 @@ Central repository for Rest API and Microservices type backend projects.
   </div>
   
 <!------END ApiRest_PedidosYaEnvios_NestJS------>
-
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!------Api_Bioethanol_Statistics_DynamoDB_AWS------>
- 
-<div align="center">
-  
-### Api Rest for the statistical management of bioethanol production and sales implemented with Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, among others. [🔝](#index-)
- 
-   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
-   </a>
-
-  ### [[Repository]](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
-  
-  <div style="display: inline-block;">
-   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-     <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
-   </a>
-    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-     <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
-   </a>
-  </div>
-  
-  ### Technology Stack Used
-  
-  <div style="display: inline-block;">
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
-   <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
-   <img width="43" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-  </div>
-  </div>
-<!------END Api_Bioethanol_Statistics_DynamoDB_AWS------>
-
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
- <!------MICROSERVICIO USUARIOS ML AWS------>
- 
-<div align="center">
-  
-### Microservice for user management (ML) implemented with Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, among others. [🔝](#index-)
-
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
-  </a>
-
- ### [[Repository]](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
-  </a>
- </div>
-  
- ### Technology Stack Used
-  
- <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
-  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
-  <img width="35" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/rds.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div> 
-  </div>
-<!------FIN MICROSERVICIO USUARIOS ML AWS------>
 
   
 <br>
@@ -732,7 +773,6 @@ Central repository for Rest API and Microservices type backend projects.
   <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1512/PNG/512/40_104848.png" />

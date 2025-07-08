@@ -6,10 +6,10 @@
 
 <div align="right">
      <a href="./translations/README.es.md" target="_blank">
-       <img src="./doc/assets/icons/translation/arg-flag.jpg" width="10%" height="10%" />
+       <img src="./doc/assets/icons/translation/arg-flag.jpg" width="65" height="40" />
    </a>
     <a href="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects" target="_blank">
-       <img src="./doc/assets/icons/translation/eeuu-flag.jpg" width="10%" height="10%" />
+       <img src="./doc/assets/icons/translation/eeuu-flag.jpg" width="65" height="40" />
    </a>
 </div>
 

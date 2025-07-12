@@ -53,8 +53,8 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
-* [Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-about-microelectronic-devices--)
-  
+* [Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#rest-api-about-microelectronic-devices--)
+
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
     <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />

@@ -95,7 +95,7 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/devops/png/prometheus.png" />  
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/junit.png" />
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
+    <img width="26" height="28" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
     <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />

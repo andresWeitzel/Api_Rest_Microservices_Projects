@@ -87,10 +87,10 @@ Central repository for Rest API and Microservices type backend projects.
 * [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   
   <div align="left">
-    <img width="30" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="30" height="30" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="30" height="30" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="30" height="30" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/grafana.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/devops/png/prometheus.png" />  
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/junit.png" />

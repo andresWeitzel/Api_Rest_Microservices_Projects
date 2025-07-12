@@ -50,6 +50,21 @@ Central repository for Rest API and Microservices type backend projects.
  <br>
 
 #### 🗂️ Projects
+
+
+* [Api Rest about electronic devices ![(status-completed)](#rest-api-about-electronic-devices--)
+  
+<div align="left">
+   <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+   <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
+   <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+   <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
+   <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+   <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+   <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
+   <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
+</div>   
+
 * [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   
   <div align="left">
@@ -88,7 +103,6 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
 
-* [Api Rest about electronic devices](#rest-api-about-electronic-devices-implemented-with-express-morgan-nodejs-sequelize-dotenv-cors-express-validator-nodemon-swagger-swagger-ui-postgresql-and-other-technologies-) [ NodeJS, Express, Sequelize, PostgreSQL, others ]
 * [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
 * [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]

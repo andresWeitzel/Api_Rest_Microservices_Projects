@@ -157,7 +157,7 @@ Central repository for Rest API and Microservices type backend projects.
   <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
     <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank">
     <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>

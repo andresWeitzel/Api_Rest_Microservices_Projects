@@ -51,47 +51,57 @@ Central repository for Rest API and Microservices type backend projects.
 
 #### 🗂️ Projects
 
+<br>
 
 * [Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#rest-api-about-microelectronic-devices--)
   
   <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="30" height="30" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="30" height="30" src="./doc/assets/icons/database/png/postgres.png" />
+    <img width="30" height="30" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="30" height="30" src="./doc/assets/icons/devops/png/swagger.png" />
+    <img width="30" height="30" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="30" height="30" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="30" height="30" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="30" height="30" src="./doc/assets/icons/devops/png/git.png" />
   </div>
 
+
+<br>
 
 * [Api Rest for the statistical management of bioethanol ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales--)
   
   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>     
+
+<br>
 
 * [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   
   <div align="left">
-    <img width="24" height="24" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="20" height="20" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="22" height="22" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="22" height="22" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="20" height="20" src="./doc/assets/icons/devops/png/grafana.png" /> 
-    <img width="20" height="20" src="./doc/assets/icons/devops/png/prometheus.png" />  
-    <img width="20" height="20" src="./doc/assets/icons/backend/java/png/junit.png" />
-    <img width="20" height="20" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-    <img width="20" height="20" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
-    <img width="20" height="19" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
-    <img width="20" height="19" src="./doc/assets/icons/database/png/mysql.png" />  
-    <img width="20" height="20" src="./doc/assets/icons/database/png/postgres.png" />
+    <img width="30" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="30" height="30" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="30" height="30" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="30" height="30" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/grafana.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/prometheus.png" />  
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/junit.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
+    <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
   </div> 
+
+<br>
 
 * [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   
@@ -234,18 +244,18 @@ Central repository for Rest API and Microservices type backend projects.
    </a>
 
  <div align="right">
-      <img width="24" height="24" src="./doc/assets/icons/backend/java/png/java.png" />
-      <img width="20" height="20" src="./doc/assets/icons/devops/png/maven.png" />
-      <img width="22" height="22" src="./doc/assets/icons/devops/png/postman.png" />
-      <img width="22" height="22" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="20" height="20" src="./doc/assets/icons/devops/png/grafana.png" /> 
-    <img width="20" height="20" src="./doc/assets/icons/devops/png/prometheus.png" />  
-      <img width="20" height="20" src="./doc/assets/icons/backend/java/png/junit.png" />
-      <img width="20" height="20" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-      <img width="20" height="20" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
-    <img width="20" height="19" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
-    <img width="20" height="19" src="./doc/assets/icons/database/png/mysql.png" />  
-    <img width="20" height="20" src="./doc/assets/icons/database/png/postgres.png" />
+    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/grafana.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/prometheus.png" />  
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/junit.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
+    <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
 </div>   
 
  ### Details

@@ -52,18 +52,18 @@ Central repository for Rest API and Microservices type backend projects.
 #### 🗂️ Projects
 
 
-* [Api Rest about electronic devices ![(status-completed)](#rest-api-about-electronic-devices--)
+* [Api Rest about electronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#rest-api-about-electronic-devices--)
   
-<div align="left">
-   <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-   <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
-   <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-   <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
-   <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-   <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-   <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
-   <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
-</div>   
+     <div align="left">
+        <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+        <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
+        <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+        <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
+        <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+        <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+        <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
+        <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
+     </div>   
 
 * [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   

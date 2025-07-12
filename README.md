@@ -84,7 +84,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
-* [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
+* [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#real-estate-microservices--)
   
   <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
@@ -102,7 +102,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
-* [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
+* [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management-------)
   
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />

@@ -140,7 +140,6 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="20" height="20" src="./doc/assets/icons/database/png/postgres.png" />
 </div>   
 
-
  ### Details
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
@@ -189,8 +188,6 @@ Central repository for Rest API and Microservices type backend projects.
 
 </div>
 
-<br>
-
  ### Details
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
@@ -238,8 +235,6 @@ Central repository for Rest API and Microservices type backend projects.
   <img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png" />
   
 </div>
-
-<br>
 
  ### Details
 

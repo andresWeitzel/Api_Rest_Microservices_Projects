@@ -52,7 +52,7 @@ Central repository for Rest API and Microservices type backend projects.
 #### 🗂️ Projects
 
 
-* [Api Rest about electronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#rest-api-about-electronic-devices--)
+* [Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#rest-api-about-microelectronic-devices--)
   
      <div align="left">
         <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
@@ -126,6 +126,63 @@ Central repository for Rest API and Microservices type backend projects.
  <br>
  
  <br>
+
+ 
+<!------ApiRest_Electronic_Devices_ExpressJS------>
+ 
+<div align="center">
+  
+### Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+ 
+<a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
+ <img src="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >
+</a>
+     <div align="right">
+        <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+        <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
+        <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+        <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
+        <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+        <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+        <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
+        <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
+     </div>   
+
+
+### [[Repository]](https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
+  
+<div style="display: inline-block;">
+ <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
+  <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
+ </a>
+ <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+  <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
+ </a>
+</div>
+  
+### Technology Stack Used
+  
+<div style="display: inline-block;">
+   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
+    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
+    <img width="35" height="35" src="./doc/assets/icons/database/postgres.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+</div>
+</div>
+<!------END ApiRest_Electronic_Devices_ExpressJS------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
  
 
 <!------SPRING CLOUD REAL ESTATE MICROSERVICES------>
@@ -272,50 +329,6 @@ Central repository for Rest API and Microservices type backend projects.
 <br>
 <br>
 
-<!------ApiRest_Electronic_Devices_ExpressJS------>
- 
-<div align="center">
-  
-### Rest Api about electronic devices implemented with Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL and other Technologies. [🔝](#index-)
- 
-<a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
- <img src="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >
-</a>
-
-### [[Repository]](https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
-  
-<div style="display: inline-block;">
- <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
-  <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
- </a>
- <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-  <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
- </a>
-</div>
-  
-### Technology Stack Used
-  
-<div style="display: inline-block;">
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
-    <img width="35" height="35" src="./doc/assets/icons/database/postgres.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-</div>
-</div>
-<!------END ApiRest_Electronic_Devices_ExpressJS------>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <!------ApiRest_PedidosYaEnvios_NestJS------>
  

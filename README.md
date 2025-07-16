@@ -117,14 +117,14 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
-* [Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)](#collaboration-on-a-project-on-covid-19-coreapi-rest-------)
+* [Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)](#collaboration-on-a-project-on-covid-19-coreapi-rest-)
 
   <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
     <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" /> 
     <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
   </div>   
 
 <br>
@@ -361,8 +361,8 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
     <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" /> 
     <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
 </div> 
 
  ### Details

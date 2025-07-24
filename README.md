@@ -67,8 +67,6 @@ Central repository for Rest API and Microservices type backend projects.
   </div>
 
 
-<br>
-
 * [Api Rest for the statistical management of bioethanol ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales--)
   
   <div align="left">
@@ -78,11 +76,10 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
     <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+    <img width="27" height="29" src="./doc/assets/icons/aws/png/dynamo.png" />
     <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>     
 
-<br>
 
 * [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#real-estate-microservices--)
   
@@ -100,9 +97,8 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
   </div> 
 
-<br>
 
-* [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management-------)
+* [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
@@ -115,9 +111,8 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
   </div>   
 
-<br>
 
-* [Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)](#collaboration-on-a-project-on-covid-19-coreapi-rest-)
+* [Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)](#collaboration-on-a-project-on-covid-19-coreapi-rest--)
 
   <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
@@ -127,7 +122,6 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
   </div>   
 
-<br>
 
 * [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
@@ -220,7 +214,7 @@ Central repository for Rest API and Microservices type backend projects.
   <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
   <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
   <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+  <img width="27" height="29" src="./doc/assets/icons/aws/png/dynamo.png" />
   <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   <img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png" />
   
@@ -303,7 +297,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)      [🔝](#index-)
+### Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
@@ -347,7 +341,7 @@ Central repository for Rest API and Microservices type backend projects.
 <br>
 
 
- <!------ Start Project on Covid-19 ------>  
+ <!------ START COVID-19 CORE API REST ------>  
  
 
 <div align="center">
@@ -373,7 +367,7 @@ Central repository for Rest API and Microservices type backend projects.
   </a>
 </div>  
 
- <!------ End Project on Covid-19 ------>  
+ <!------ END COVID-19 CORE API REST ------>  
 
 
   

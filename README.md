@@ -121,13 +121,23 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" /> 
     <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
   </div>   
+  
+* [Microservice OpenWeather](#microservice-openweather-)
 
+   <div align="left">
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  </div>
 
 * [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
 * [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservice Paypal Orders Express](#microservice-paypal-orders-with-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
-* [Microservice OpenWeather Nodejs Jest](#microservice-openweather-with-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-others-) [ NodeJS, Jest, Serverless-Framework, etc. ]
 * [Microservice Employess NestJS](#microservice-for-employee-management-using-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-others-) [ NestJS, Typescript, TypeORM, etc. ]
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
@@ -371,6 +381,52 @@ Central repository for Rest API and Microservices type backend projects.
 
 
   
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+<!------Microservice OpenWeather Nodejs Jest ------>
+  
+<div align="center">
+
+### Microservice OpenWeather. [🔝](#index-)
+    
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/blob/master/doc/assets/img/open-weather.jpg" >
+  </a>
+
+  
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+</div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+<!------FIN Microservice OpenWeather Nodejs Jest ------>
+
+
 <br>
 <br>
 <br>

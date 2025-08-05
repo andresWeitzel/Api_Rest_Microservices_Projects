@@ -122,7 +122,17 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
     <img width="27" height="27" src="../doc/assets/icons/backend/java/png/netbeans.png" /> 
   </div>  
 
+* [Microservicio OpenWeather](#microservicio-openweather-) 
 
+   <div align="left">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  </div>
 
 
 
@@ -130,7 +140,6 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 * [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
 * [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservicio Paypal Orders Express](#microservicio-paypal-orders-utilizando-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
-* [Microservicio OpenWeather Nodejs Jest](#microservicio-openweather-utilizando-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ NodeJS, Jest, Serverless-Framework, etc. ]
 * [Microservicio Employess NestJS](#microservicio-para-la-gestión-de-empleados-utilizando-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-otros-) [ NestJS, Typescript, TypeORM, etc. ]
 * README en construcción y mantenimiento.
 
@@ -363,6 +372,53 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 
   
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+<!------Microservice OpenWeather Nodejs Jest ------>
+  
+<div align="center">
+
+### Microservicio OpenWeather. [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/blob/master/doc/assets/img/open-weather.jpg" >
+  </a> 
+
+    
+<div align="right">
+  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+</div>
+
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/icons/social-networks/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+<!------FIN Microservice OpenWeather Nodejs Jest ------>
+
+
 <br>
 <br>
 <br>
@@ -799,51 +855,6 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  </div>
   
 <!------FIN Microservice_Paypal_Orders_Express ------>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-<!------Microservice OpenWeather Nodejs Jest ------>
-  
-<div align="center">
-
-### Microservicio OpenWeather utilizando Nodejs, Jest, Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, otros. [🔝](#índice-)
-    
-  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/master/doc/assets/img/weather-data.png" >
-  </a> 
-
-  ###  [[Repositorio]](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [|]() [[PlayList]]()
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-   <a href="" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-
- ###  Stack implementado
-
- <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
-  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
- </div>
-  
-<!------FIN Microservice OpenWeather Nodejs Jest ------>
 
 
 <br>

@@ -416,10 +416,10 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
   </a>
   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-network/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>
 
@@ -611,50 +611,6 @@ Central repository for Rest API and Microservices type backend projects.
   
 <!------FIN Microservice_Paypal_Orders_Express ------>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-<!------Microservice OpenWeather Nodejs Jest ------>
-  
-<div align="center">
-
-### Microservice OpenWeather with Nodejs, Jest, Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, others. [🔝](#index-)
-    
-  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/master/doc/assets/img/weather-data.png" >
-  </a> 
-
-  ###  [[Repository]](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [|]() [[PlayList]]()
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
-  </a>
-   <a href="" target="_blank">
-    <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
-  </a>
- </div>
-
- ### Used Stack
-
- <div style="display: inline-block;">
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
-   <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
- </div>
-  
-<!------FIN Microservice OpenWeather Nodejs Jest ------>
 
 
 <br>

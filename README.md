@@ -134,6 +134,17 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
+* [Microservice Microservice Paypal Orders](#microservice-paypal-orders-)
+
+   <div align="left">
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="24" height="24" src="./doc/assets/icons/integrations/png/paypal.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  </div>  
+
 * [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
 * [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]

@@ -134,12 +134,19 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
+* [Microservicio Paypal Orders](#microservicio-paypal-orders-)
 
-
+   <div align="left">
+    <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="24" height="24" src="../doc/assets/icons/integrations/png/paypal.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  </div>  
 
 * [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
 * [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
-* [Microservicio Paypal Orders Express](#microservicio-paypal-orders-utilizando-typescript-nodejs-jest-expressjs-others-) [ Typescript, NodeJS, Express, etc. ]
 * [Microservicio Employess NestJS](#microservicio-para-la-gestión-de-empleados-utilizando-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-otros-) [ NestJS, Typescript, TypeORM, etc. ]
 * README en construcción y mantenimiento.
 
@@ -417,6 +424,49 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
   
 <!------FIN Microservice OpenWeather Nodejs Jest ------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+<!------ Microservice_Paypal_Orders_Express ------>
+  
+<div align="center">
+
+### Microservicio Paypal Orders [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express/blob/master/doc/assets/img/paypal_api.png" >
+  </a> 
+
+  <div align="right">
+    <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="24" height="24" src="../doc/assets/icons/integrations/png/paypal.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+
+  <br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>  
+  
+<!------FIN Microservice_Paypal_Orders_Express ------>
 
 
 <br>
@@ -821,49 +871,6 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 <br>
 <br>
   
-<!------ Microservice_Paypal_Orders_Express ------>
-  
-<div align="center">
-
-### Microservicio Paypal Orders utilizando Typescript, Nodejs, Jest, ExpressJS, others. [🔝](#índice-)
-    
-  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express/blob/master/doc/assets/img/paypal_api.png" >
-  </a> 
-
-  ###  [[Repositorio]](https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express) [|]() [[PlayList]]()
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-   <a href="" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
- 
- ###  Stack implementado
-
- <div style="display: inline-block;">
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
- </div>
-  
-<!------FIN Microservice_Paypal_Orders_Express ------>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <!------Microservice_Employees_NestJS  ------>
   
 <div align="center">

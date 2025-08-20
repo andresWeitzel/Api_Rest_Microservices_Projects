@@ -145,6 +145,20 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
     <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
   </div>  
 
+* [API Rest orders and shipments](#api-rest-orders-and-shipments-)
+
+   <div align="left">
+    <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="24" height="24" src="../doc/assets/icons/database/png/postgres.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/swagger.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  </div>   
+
 * [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
 * [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservicio Employess NestJS](#microservicio-para-la-gestión-de-empleados-utilizando-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-otros-) [ NestJS, Typescript, TypeORM, etc. ]
@@ -468,6 +482,51 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   
 <!------FIN Microservice_Paypal_Orders_Express ------>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------ApiRest_PedidosYaEnvios_NestJS------>
+ 
+<div align="center">
+  
+### API Rest orders and shipments [🔝](#índice-)
+ 
+   <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
+   <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >
+   </a>
+
+  <div align="right">
+    <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="24" height="24" src="../doc/assets/icons/database/png/postgres.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/swagger.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  </div>
+
+
+  <br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>  
+
+<!------END ApiRest_PedidosYaEnvios_NestJS------>
 
 <br>
 <br>

@@ -145,7 +145,22 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
   </div>  
 
-* [Rest Api for the management of shipments, products, points, routes, etc.](#rest-api-for-the-management-of-shipments-products-points-routes-etc-exemplifying-part-of-the-orders-now-shipments-development-architecture-implemented-with-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-others-) [ NestJS, TypeORM, NodeJS, MySQL, others ]
+* [API Rest orders and shipments ](#api-rest-orders-and-shipments-)
+
+   <div align="left">
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="24" height="24" src="./doc/assets/icons/database/png/postgres.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  </div>   
+
+
+
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
 * [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservice Employess NestJS](#microservice-for-employee-management-using-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-others-) [ NestJS, Typescript, TypeORM, etc. ]
@@ -492,39 +507,38 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### Rest Api for the management of shipments, products, points, routes, etc., exemplifying part of the Orders Now Shipments development architecture implemented with NestJS, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others. [🔝](#index-)
+### API Rest orders and shipments [🔝](#index-)
  
    <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
    <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >
    </a>
 
-  ### [[Repository]](https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
-  
-  <div style="display: inline-block;">
-   <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
-     <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
-   </a>
-    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-     <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
-   </a>
+  <div align="right">
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="24" height="24" src="./doc/assets/icons/database/png/postgres.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
   </div>
-  
-  ### Technology Stack Used
-  
-  <div style="display: inline-block;">
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-   <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/typeorm.png" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
-    <img width="35" height="35" src="./doc/assets/icons/database/postgres.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-  </div>
-  </div>
-  
+
+
+  <br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>  
+
 <!------END ApiRest_PedidosYaEnvios_NestJS------>
 
   

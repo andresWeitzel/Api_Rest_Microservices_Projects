@@ -145,7 +145,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
     <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
   </div>  
 
-* [API Rest orders and shipments](#api-rest-orders-and-shipments-)
+* [API Rest para la gestión de pedidos y envíos](#api-rest-para-la-gestión-de-pedidos-y-envíos-)
 
    <div align="left">
     <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
@@ -494,7 +494,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  
 <div align="center">
   
-### API Rest orders and shipments [🔝](#índice-)
+### API Rest para la gestión de pedidos y envíos [🔝](#índice-)
  
    <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
    <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >

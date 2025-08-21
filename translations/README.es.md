@@ -159,10 +159,26 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
     <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
   </div>   
 
-* [Api Rest para la gestión de envíos, productos, puntos, rutas, etc.](#api-rest-para-la-gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-desarrollo-de-pedidosya-envíos-implementado-con-nestjs-nodejs-typeorm-dotenv-cors-swagger-swagger-ui-mysql-otros-) [ NestJS, TypeORM, NodeJS, MySQL, otros ]
-* [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
+* [Api Rest sobre Productos Electrónicos Genéricos](#api-rest-sobre-productos-electrónicos-genéricos-)
+
+   <div align="left">
+    <img width="28" height="30" src="../doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="../doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" /> 
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-security.png" /> 
+    <img width="25" height="25" src="../doc/assets/icons/database/png/mysql.png" />  
+  </div>     
+
+
+<br>
+
+* [Api Rest para la gestión de Microcomponentes.](#api-rest-para-la-gestión-de-microcomponentes-implementado-con-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-y-otras-tecnologías-) [ Spring Boot, Spring MVC, Oracle XE, otros ]
+* [Sistema de control de versiones centralizado Nodejs](#sistema-de-control-de-versiones-centralizado-nodejs-con-typescript-nodejs-jest-expressjs-otros-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservicio Employess NestJS](#microservicio-para-la-gestión-de-empleados-utilizando-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-otros-) [ NestJS, Typescript, TypeORM, etc. ]
-* README en construcción y mantenimiento.
+* [Api Rest para el Microservice App_MicroFrontEnd_Productos.](#api-rest-para-el-microservice-app_microfrontend_productos-con-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-y-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, otros ]
+* [Desarrollo de una Api Rest para componentes microelectrónicos.](#desarrollo-de-una-api-rest-con-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-y-oracle-sobre-componentes-para-microelectrónica-) [ Spring Boot, OpenApi, Oracle, otros ] 
 
 <br>
 
@@ -528,6 +544,56 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 <!------END ApiRest_PedidosYaEnvios_NestJS------>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------ Start Api_Rest_Spring_Productos ------>  
+ 
+<div align="center">
+     
+  ### Api Rest sobre Productos Electrónicos Genéricos [🔝](#índice-)
+
+<a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
+ <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
+</a>
+
+   <div align="right">
+    <img width="28" height="30" src="../doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="../doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" /> 
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-security.png" /> 
+    <img width="25" height="25" src="../doc/assets/icons/database/png/mysql.png" />  
+  </div>  
+
+  <br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>  
+
+
+
+
+ <!------ End Api_Rest_Spring_Productos ------>  
+ 
+
+
+
+
+  
 <br>
 <br>
 <br>

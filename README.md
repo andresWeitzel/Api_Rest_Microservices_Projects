@@ -157,9 +157,22 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>   
+  </div> 
+
+* [Api Rest about Generic Electronic Products ](#api-rest-about-generic-electronic-products-)
+
+   <div align="left">
+    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
+  </div>     
 
 
+<br>
 
 * [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
 * [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]
@@ -167,7 +180,6 @@ Central repository for Rest API and Microservices type backend projects.
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
 * [Rest Api about microElectronic Products.](#rest-api-about-electronic-products-with-spring-boot-spring-security-spring-data-mongodb-springfox-swagger-ui-maven-lombok-log4j-git-and-mongodb-) [ Spring Boot, SpringFox, MongoDB, others ]
-* [Rest Api about Generic Electronic Products.](#development-of-a-rest-api-with-spring-boot-spring-security-jwt-etc-on-electronic-products-) [ Spring Boot, Spring Security, JWT, MySQL, others ]
 
 
 
@@ -541,6 +553,58 @@ Central repository for Rest API and Microservices type backend projects.
 
 <!------END ApiRest_PedidosYaEnvios_NestJS------>
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!------ Start Api_Rest_Spring_Productos ------>  
+ 
+<div align="center">
+     
+  ### Api Rest about Generic Electronic Products [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
+ <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
+</a>
+
+   <div align="right">
+    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
+  </div>  
+
+  <br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>  
+
+
+
+
+ <!------ End Api_Rest_Spring_Productos ------>  
+ 
+
+
+
+
   
 <br>
 <br>
@@ -841,59 +905,6 @@ Central repository for Rest API and Microservices type backend projects.
 
 <!------End ApiRest_ElectroThingsV1_SpringBoot_MongoDB------>  
 
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<!------ Start ApiRestProductosSpringBoot ------>  
- 
-<div align="center">
-     
-  ### Development of a Rest API with Spring Boot, Spring Security, JWT, etc. on Electronic Products. [🔝](#index-)
-
-<a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
- <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
-</a>
-
-
-### [[Repository]](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC)
-
-  
-<div style="display: inline-block;">
- <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos">
-  <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
- </a>
- <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC">
-  <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
- </a>
-</div>
-
-
-### Technology Stack Used
-  
-  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1512/PNG/512/40_104848.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2790/PNG/512/json_filetype_icon_177531.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-  </div>
-</div>
-
- <!------ End ApiRestProductosSpringBoot ------>  
- 
 
 
 

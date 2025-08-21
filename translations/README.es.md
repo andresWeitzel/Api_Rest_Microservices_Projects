@@ -558,7 +558,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   ### Api Rest sobre Productos Electrónicos Genéricos [🔝](#índice-)
 
 <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
- <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
+ <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/ApiRestProductosSpringBoot/CRUD/select/listadoProductos.jpg" >
 </a>
 
    <div align="right">

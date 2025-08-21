@@ -636,7 +636,7 @@ Central repository for Rest API and Microservices type backend projects.
   ### Api Rest for the management of Microcomponents [🔝](#index-)
 
    <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
-   <img src="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot/blob/master/doc/api/componentes-lits.png" >
+   <img src="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot/blob/master/src/main/resources/static/componentes-list.png" >
    </a>
 
   <div align="right">

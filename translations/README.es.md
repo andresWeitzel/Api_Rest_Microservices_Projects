@@ -621,10 +621,10 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   ### Api Rest para la gestión de Microcomponentes [🔝](#índice-)
 
    <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
-   <img src="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot/blob/master/doc/api/componentes-lits.png" >
+   <img src="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot/blob/master/src/main/resources/static/componentes-list.png" >
    </a>
 
-           <div align="right">
+  <div align="right">
     <img width="28" height="30" src="../doc/assets/icons/backend/java/png/java.png" />
     <img width="22" height="24" src="../doc/assets/icons/devops/png/maven.png" />
     <img width="24" height="26" src="../doc/assets/icons/database/png/oracle.png" /> 

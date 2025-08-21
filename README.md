@@ -179,7 +179,7 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png" /> 
     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="27" height="35" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
  
@@ -645,7 +645,7 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png" /> 
     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="27" height="35" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
   </div>  

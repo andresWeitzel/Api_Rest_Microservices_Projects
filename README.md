@@ -169,12 +169,26 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
-  </div>     
+  </div>  
+
+* [Api Rest for the management of Microcomponents ](#api-rest-for-the-management-of-microcomponents-)
+
+   <div align="left">
+    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="24" height="24" src="./doc/assets/icons/database/png/oracle.png" /> 
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+ 
+  </div>       
 
 
 <br>
 
-* [Api Rest for the management of Microcomponents.](#api-rest-for-the-management-of-microcomponents-implemented-with-spring-boot-spring-mvc-spring-data-jpa-springfox-swagger-ui-maven-lombok-postman-log4j-git-sqldeveloper-oracle-xe-21c-and-other-technologies-) [ Spring Boot, Spring MVC, Oracle XE, others ]
+
 * [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]
 * [Microservice Employess NestJS](#microservice-for-employee-management-using-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-others-) [ NestJS, Typescript, TypeORM, etc. ]
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
@@ -614,46 +628,41 @@ Central repository for Rest API and Microservices type backend projects.
 <br>
 
 
+
 <!------ApiRest_Microcomponents_SpringBoot_Oracle------>
 
 <div align="center">
 
-  ### Api Rest for the management of Microcomponents implemented with Spring Boot, Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Maven, Lombok, Postman, Log4j, Git, SQLDeveloper, Oracle XE 21c and Other Technologies. [🔝](#index-)
+  ### Api Rest for the management of Microcomponents [🔝](#index-)
 
    <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
    <img src="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot/blob/master/doc/api/componentes-lits.png" >
    </a>
 
-   ### [[Repository]](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S)
-    
-  <div style="display: inline-block;">
-   <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot">
-     <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
-   </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S">
-     <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
-   </a>
-  </div>
+  <div align="right">
+    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="24" height="24" src="./doc/assets/icons/database/png/oracle.png" /> 
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+  </div>  
 
-### Technology Stack Used
+<br>
 
-  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-    <img width="40" height="40" src="./doc/assets/icons/back/api.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
-     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-   <img width="44" height="44" src="./doc/assets/icons/back/sts.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
-     <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
-</div>
-</div>
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>  
+
 
 <!------End ApiRest_Microcomponentes_SpringBoot_Oracle------>
 

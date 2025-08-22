@@ -182,14 +182,23 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
- 
-  </div>       
+  </div> 
+
+* [Centralized Version Control System ](#centralized-version-control-system-)
+
+   <div align="left">
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  </div>         
 
 
 <br>
 
 
-* [Centralized Version Control System Nodejs](#centralized-version-control-system-nodejs-with-typescript-nodejs-jest-expressjs-others-) [ TypeScript, NodeJs, ExpressJS, etc. ]
+
 * [Microservice Employess NestJS](#microservice-for-employee-management-using-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-others-) [ NestJS, Typescript, TypeORM, etc. ]
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
@@ -678,34 +687,33 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Centralized Version Control System Nodejs with Typescript, Nodejs, Jest, ExpressJS, others. [🔝](#index-)
+### Centralized Version Control System [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
   <img src="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs/blob/master/doc/assets/img/centralized.png" >
-  </a> 
+  </a>
 
-  ###  [[Repository]](https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs) [|]() [[PlayList]]()
-  
- <div style="display: inline-block;"> 
+  <div align="right">
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  </div> 
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
-    <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
   </a>
-   <a href="" target="_blank">
-    <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
- </div>
+</div>   
 
- ### Used Stack
-
- <div style="display: inline-block;">
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
- </div>
   
 <!------FIN Centralized Version Control System Nodejs ------>
 

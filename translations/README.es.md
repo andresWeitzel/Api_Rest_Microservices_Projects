@@ -195,15 +195,15 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
     <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
   </div>
 
-* [Microservicio para la gestión de empleados utilizando Nestjs](#microservicio-para-la-gestión-de-empleados-utilizando-nestjs-)
+* [Microservicio para la gestión de empleados](#microservicio-para-la-gestión-de-empleados-)
 
    <div align="left">
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-    <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
-    <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" />
+    <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
   </div>
 
 * [Api Rest para el Microservice App_MicroFrontEnd_Productos](#api-rest-para-el-microservice-app_microfrontend_productos-)
@@ -775,39 +775,34 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   
 <div align="center">
 
-### Microservicio para la gestión de empleados utilizando Nestjs, TypeORM, MySQL, Nodejs, Typescript, nodemon, git, otros. [🔝](#índice-)
+### Microservicio para la gestión de empleados [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
-  <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >
+  <img src="https://github.com/andresWeitzel/Microservice_Employees_NestJS/blob/master/doc/assets/img/Microservice_Employees_NestJS.png" >
   </a> 
 
-  ###  [[Repositorio]](https://github.com/andresWeitzel/Microservice_Employees_NestJS) [|]() [[PlayList]]()
-  
- <div style="display: inline-block;"> 
+   <div align="right">
+    <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  </div>  
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
-    <img width="60" height="60" src="../doc/assets/icons/social-networks/github.gif" />
+    <img width="60" height="60" alt="code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
   </a>
-   <a href="" target="_blank">
-    <img width="60" height="60" src="../doc/assets/icons/social-networks/youtubeLogo.gif" />
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
- </div>
+</div>   
 
- ### Stack Utilizado
-
- <div style="display: inline-block;">
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-   <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
- </div>
-  
 <!------FIN Microservice_Employees_NestJS   ------>
 
 

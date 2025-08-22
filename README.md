@@ -192,14 +192,25 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>         
+  </div>  
+
+
+* [Microservice for Employee management ](#microservice-for-employee-management-)
+
+   <div align="left">
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  </div>           
 
 
 <br>
 
 
 
-* [Microservice Employess NestJS](#microservice-for-employee-management-using-nestjs-typeorm-mysql-nodejs-typescript-nodemon-git-others-) [ NestJS, Typescript, TypeORM, etc. ]
 * [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
 * [Rest Api about microElectronic Products.](#rest-api-about-electronic-products-with-spring-boot-spring-security-spring-data-mongodb-springfox-swagger-ui-maven-lombok-log4j-git-and-mongodb-) [ Spring Boot, SpringFox, MongoDB, others ]
@@ -729,39 +740,34 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice for employee management using Nestjs, TypeORM, MySQL, Nodejs, Typescript, nodemon, git, others. [🔝](#index-)
+### Microservice for Employee management [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
-  <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >
+  <img src="https://github.com/andresWeitzel/Microservice_Employees_NestJS/blob/master/doc/assets/img/Microservice_Employees_NestJS.png" >
   </a> 
 
-  ###  [[Repository]](https://github.com/andresWeitzel/Microservice_Employees_NestJS) [|]() [[PlayList]]()
-  
- <div style="display: inline-block;"> 
+   <div align="right">
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  </div>  
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
   </a>
-   <a href="" target="_blank">
-    <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
- </div>
+</div>   
 
- ### Used Stack
-
- <div style="display: inline-block;">
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-   <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
-   <img width="35" height="35" src="./doc/assets/icons/database/mysql.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
- </div>
-  
 <!------FIN Microservice_Employees_NestJS   ------>
 
 

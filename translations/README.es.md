@@ -219,24 +219,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
      <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" /> 
    </div>
 
-* [Api Rest para el Microservice App_MicroFrontEnd_Productos](#api-rest-para-el-microservice-app_microfrontend_productos-)
 
-   <div align="left">
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-    <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
-    <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-    <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="../doc/assets/icons/database/postgres.png" />
-    <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-  </div>
 
 * [Api Rest microelectrónica Oracle](#api-rest-microelectronica-oracle-)
 
@@ -870,59 +853,6 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 <br>
     
 
-
-
-
-<!------Start ApiRest_MicroFrontEnd_ProductosSupermercado------>
-  
-<div align="center">
-
-### Api Rest para el Microservice App_MicroFrontEnd_Productos con Spring Boot, Spring MVC, Spring Security, JWT, Spring Data JPA, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Postman, Log4j, Git, DBeaver, pgAdmin y PostgreSQL. [🔝](#índice-)
-
-<a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado" target="_blank">
-<img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
-</a>
-
-### [[Repositorio]](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L)
-      
-<div style="display: inline-block;">
-   <a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado">
-     <img width="60" height="60" src="../doc/assets/icons/social-networks/github.gif" />
-   </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L">
-     <img width="60" height="60" src="../doc/assets/icons/social-networks/youtubeLogo.gif" />
-   </a>
-</div>
-
-
-### Stack Tecnológico Utilizado
-
-<div style="display: inline-block;">
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-    <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
-     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-   <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="../doc/assets/icons/database/postgres.png" />
-     <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-</div>
-</div>
-
-<!------End ApiRest_MicroFrontEnd_ProductosSupermercado------>
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 <!------Start ApiRest_Microelectronica_SpringBoot_Oracle------>

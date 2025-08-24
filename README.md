@@ -799,7 +799,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Microservice supermarket products [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank">
-<img src="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado/blob/master/doc/controllers.png" >
+<img src="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado/blob/master/doc/img/controllers.png" >
 </a>
 
   <div align="right">

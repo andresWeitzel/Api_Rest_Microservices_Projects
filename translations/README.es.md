@@ -833,7 +833,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 ### Microservicio productos supermercado [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_Supermarket_Products/blob/master/doc/assets/img/Microservice_Supermarket_Products.png" >
+  <img src="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado/blob/master/doc/img/controllers.png" >
   </a> 
 
    <div align="right">

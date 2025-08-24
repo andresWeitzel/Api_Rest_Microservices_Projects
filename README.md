@@ -854,7 +854,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Api Rest microelectronics Oracle [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank">
-<img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/swagger/doc_openapi_componenteController/listado_componentes.png" >
+<img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/img/swagger/doc_openapi_componenteController/listado_componentes.png" >
 </a>
 
   <div align="right">

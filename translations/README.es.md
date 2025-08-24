@@ -223,22 +223,15 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 * [Api Rest microelectrónica Oracle](#api-rest-microelectronica-oracle-)
 
-   <div align="left">
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-     <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
-     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-     <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
-     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
-     <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
-   </div>
+  <div align="left">
+    <img width="28" height="30" src="../doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="../doc/assets/icons/devops/png/maven.png" />
+    <img width="24" height="26" src="../doc/assets/icons/database/png/oracle.png" /> 
+    <img width="26" height="26" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" /> 
+  </div>    
 
 * [Api Rest sobre Productos Electrónicos](#api-rest-sobre-productos-electronicos-)
 

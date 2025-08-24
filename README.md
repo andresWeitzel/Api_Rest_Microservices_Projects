@@ -204,14 +204,25 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>           
+  </div>  
+
+* [Microservice supermarket products ](#microservice-supermarket-products-)
+
+   <div align="left">
+    <img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png" /> 
+    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+  </div>             
 
 
 <br>
 
 
-
-* [Api Rest for the Microservice App_MicroFrontEnd_Productos.](#api-rest-for-the-microservice-app_microfrontend_productos-with-spring-boot-spring-mvc-spring-security-jwt-spring-data-jpa-springdoc-openapi-swagger-ui-maven-lombok-postman-log4j-git-dbeaver-pgadmin-and-postgresql-) [ Spring Boot, Spring Security, PostgreSQL, others ]
 * [Development of a Rest Api for microelectronic components.](#development-of-a-rest-api-with-spring-boot-springdoc-openapi-swagger-ui-maven-lombok-log4j-and-oracle-on-components-for-microelectronics-) [ Spring Boot, OpenApi, Oracle, others ] 
 * [Rest Api about microElectronic Products.](#rest-api-about-electronic-products-with-spring-boot-spring-security-spring-data-mongodb-springfox-swagger-ui-maven-lombok-log4j-git-and-mongodb-) [ Spring Boot, SpringFox, MongoDB, others ]
 
@@ -781,49 +792,42 @@ Central repository for Rest API and Microservices type backend projects.
 
 
 
-<!------Start ApiRest_MicroFrontEnd_ProductosSupermercado------>
+<!------Start Microservicio_ProductosSupermercado------>
   
 <div align="center">
 
-### Api Rest for the Microservice App_MicroFrontEnd_Productos with Spring Boot, Spring MVC, Spring Security, JWT, Spring Data JPA, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Postman, Log4j, Git, DBeaver, pgAdmin and PostgreSQL. [🔝](#index-)
+### Microservice supermarket products [🔝](#index-)
 
-<a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado" target="_blank">
-<img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
+<a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank">
+<img src="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado/blob/master/doc/controllers.png" >
 </a>
 
-### [[Repository]](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L)
-      
-<div style="display: inline-block;">
-   <a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado">
-     <img width="60" height="60" src="./doc/assets/img/redes/github.gif" />
-   </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L">
-     <img width="60" height="60" src="./doc/assets/img/redes/youtubeLogo.gif" />
-   </a>
-</div>
+  <div align="right">
+    <img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png" /> 
+    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+  </div>  
 
 
-### Technology Stack Used
+<br>
 
-<div style="display: inline-block;">
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-    <img width="40" height="40" src="./doc/assets/icons/back/api.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
-     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-   <img width="44" height="44" src="./doc/assets/icons/back/sts.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="./doc/assets/icons/database/postgres.png" />
-     <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-</div>
-</div>
+ ### Details
 
-<!------End ApiRest_MicroFrontEnd_ProductosSupermercado------>
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>   
+
+<!------End Microservicio_ProductosSupermercado------>
   
 <br>
 <br>

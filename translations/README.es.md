@@ -198,13 +198,26 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 * [Microservicio para la gestión de empleados](#microservicio-para-la-gestión-de-empleados-)
 
    <div align="left">
-    <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
-    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
-    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-  </div>
+     <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+     <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+     <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+     <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+     <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+   </div>
+
+* [Microservicio productos supermercado](#microservicio-productos-supermercado-)
+
+   <div align="left">
+     <img width="24" height="26" src="../doc/assets/icons/database/png/postgres.png" /> 
+     <img width="28" height="30" src="../doc/assets/icons/backend/java/png/java.png" />
+     <img width="22" height="24" src="../doc/assets/icons/devops/png/maven.png" />
+     <img width="26" height="26" src="../doc/assets/icons/devops/png/git.png" />
+     <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+     <img width="27" height="27" src="../doc/assets/icons/devops/png/apache-tomcat.png" />
+     <img width="25" height="25" src="../doc/assets/icons/devops/png/swagger.png" /> 
+     <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" /> 
+   </div>
 
 * [Api Rest para el Microservice App_MicroFrontEnd_Productos](#api-rest-para-el-microservice-app_microfrontend_productos-)
 
@@ -228,40 +241,40 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 * [Desarrollo de una Api Rest para componentes microelectrónicos](#desarrollo-de-una-api-rest-para-componentes-microelectrónicos-)
 
    <div align="left">
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-    <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
-    <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-    <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
-    <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
-  </div>
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
+     <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />
+     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
+     <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
+     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
+     <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
+   </div>
 
-* [Api Rest sobre Productos Electrónicos](#api-rest-sobre-productos-electrónicos-)
+* [Api Rest sobre Productos Electrónicos](#api-rest-sobre-productos-electronicos-)
 
    <div align="left">
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-    <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
-    <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-    <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongo.png" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongodb-compass.png" />
-  </div>
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
+     <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
+     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
+     <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
+     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongo.png" />
+     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongodb-compass.png" />
+   </div>
 
 <br>
 
@@ -419,7 +432,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  
 <div align="center">
   
-### Microservicio para gestión de usuarios de mercado libre ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Microservicio para gestión de usuarios de Mercado Libre ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
@@ -504,7 +517,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   
 <div align="center">
 
-### Microservicio OpenWeather. [🔝](#índice-)
+### Microservicio OpenWeather [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/blob/master/doc/assets/img/open-weather.jpg" >
@@ -805,6 +818,49 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 <!------FIN Microservice_Employees_NestJS   ------>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+     
+<!------Start Microservice_Supermarket_Products------>
+   
+<div align="center">
+
+### Microservicio productos supermercado [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservice_Supermarket_Products/blob/master/doc/assets/img/Microservice_Supermarket_Products.png" >
+  </a> 
+
+   <div align="right">
+     <img width="24" height="26" src="../doc/assets/icons/database/png/postgres.png" /> 
+     <img width="28" height="30" src="../doc/assets/icons/backend/java/png/java.png" />
+     <img width="22" height="24" src="../doc/assets/icons/devops/png/maven.png" />
+     <img width="26" height="26" src="../doc/assets/icons/devops/png/git.png" />
+     <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+     <img width="27" height="27" src="../doc/assets/icons/devops/png/apache-tomcat.png" />
+     <img width="25" height="25" src="../doc/assets/icons/devops/png/swagger.png" /> 
+     <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" /> 
+   </div>  
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+   <a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank">
+     <img width="60" height="60" alt="code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+   </a>
+   <a href="" target="_blank">
+     <img width="60" height="60" alt="playlist" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+   </a>
+</div>   
+ 
+<!------FIN Microservice_Supermarket_Products------>
 
 <br>
 <br>

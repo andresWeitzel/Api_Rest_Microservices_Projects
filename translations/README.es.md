@@ -233,24 +233,18 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
     <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" /> 
   </div>    
 
-* [Api Rest sobre Productos Electrónicos](#api-rest-sobre-productos-electronicos-)
+* [Api Rest ElectroThings v1](#api-rest-electrothings-v1-)
 
    <div align="left">
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-     <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
-     <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-     <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
-     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongo.png" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongodb-compass.png" />
-   </div>
+    <img width="28" height="30" src="../doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="../doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-security.png" />
+    <img width="24" height="26" src="../doc/assets/icons/database/png/mongo.png" />  
+  </div>
 
 <br>
 
@@ -258,13 +252,15 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 <!------Stop índice----->
   
- <br>
- 
- <br>
+<br>
+  
+<div align="center">
+    
+ ## 🗂️ Proyectos
 
- <br>
- 
- <br>
+</div>
+
+<br>
 
  
 <!------ApiRest_Electronic_Devices_ExpressJS------>
@@ -898,41 +894,35 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  
 <div align="center">
 
-### Api Rest sobre Productos Electrónicos con Spring Boot, Spring Security, Spring Data MongoDB, SpringFox, Swagger UI, Maven, Lombok, Log4j, Git y MongoDB. [🔝](#índice-)
+### Api Rest ElectroThings v1 [🔝](#índice-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank">
- <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/doc/controllers/inicioDocSwagger.png" >
+<img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/doc/controllers/inicioDocSwagger.png" >
 </a>
 
-### [[Repositorio]](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [|]() [[PlayList]](https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15)
-  
-<div style="display: inline-block;">
- <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB">
-  <img width="60" height="60" src="../doc/assets/icons/social-networks/github.gif" />
- </a>
- <a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15">
-  <img width="60" height="60" src="../doc/assets/icons/social-networks/youtubeLogo.gif" />
- </a>
-</div>
+  <div align="right">
+    <img width="28" height="30" src="../doc/assets/icons/backend/java/png/java.png" />
+    <img width="22" height="24" src="../doc/assets/icons/devops/png/maven.png" />
+    <img width="26" height="26" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/java/png/spring-security.png" />
+    <img width="24" height="26" src="../doc/assets/icons/database/png/mongo.png" />  
+  </div>  
 
-### Stack Tecnológico Utilizado
 
-  <div style="display: inline-block;">
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
-    <img width="40" height="40" src="../doc/assets/icons/back/api.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
-    <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-    <img width="44" height="44" src="../doc/assets/icons/back/sts.png" />
-    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongo.png" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongodb-compass.png" />
-  </div>
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
 </div>
 
 <!------End ApiRest_ElectroThingsV1_SpringBoot_MongoDB------>  

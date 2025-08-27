@@ -244,7 +244,7 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="24" height="26" src="./doc/assets/icons/database/png/mongo.png" />  
   </div> 
 
-* [ Api Rest Productos Agrícolas ](#api-rest-productos-agricolas-)
+* [ Api Rest Productos Agrícolas ](#api-rest-productos-agrícolas-)
 
    <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/database/png/mongo.png" />

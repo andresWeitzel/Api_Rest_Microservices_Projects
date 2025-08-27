@@ -906,7 +906,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
 
-### Api Rest Electro Things v1 [🔝](#index-)
+### Api Rest ElectroThings v1 [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank">
 <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/doc/controllers/inicioDocSwagger.png" >

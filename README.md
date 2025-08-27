@@ -242,7 +242,20 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" />
     <img width="24" height="26" src="./doc/assets/icons/database/png/mongo.png" />  
-  </div>                 
+  </div> 
+
+* [ Api Rest Productos Agrícolas ](#api-rest-productos-agricolas-)
+
+   <div align="left">
+    <img width="25" height="25" src="./doc/assets/icons/database/png/mongo.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" /> 
+  </div>                   
+
+
 
 
 <br>
@@ -945,3 +958,40 @@ Central repository for Rest API and Microservices type backend projects.
 <br>
 <br>
 <br>
+
+
+<!------Start ApiRest_ProductosAgricolas_NodeJs------>  
+
+
+<div align="center">
+
+### Api Rest Productos Agrícolas [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank">
+<img src="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs/blob/master/doc/assets/img/ApiRest_ProductosAgricolas_NodeJs.png" >
+</a>
+
+  <div align="right">
+    <img width="25" height="25" src="./doc/assets/icons/database/png/mongo.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" /> 
+  </div>  
+
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>   
+
+<!------End ApiRest_ProductosAgricolas_NodeJs------>  

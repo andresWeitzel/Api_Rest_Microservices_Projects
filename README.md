@@ -51,8 +51,6 @@ Central repository for Rest API and Microservices type backend projects.
 
 #### 🗂️ Projects
 
-<br>
-
 * [Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-about-microelectronic-devices--)
 
   <div align="left">

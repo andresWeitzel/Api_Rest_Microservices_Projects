@@ -52,8 +52,6 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 #### 🗂️ Projects
 
-<br>
-
 * [Api Rest sobre dispositivos electrónicos ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-sobre-dispositivos-electronicos--)
 
   <div align="left">

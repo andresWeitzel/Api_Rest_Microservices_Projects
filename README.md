@@ -120,7 +120,7 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
   </div>   
   
-* [Microservice OpenWeather](#microservice-openweather-)
+* [Microservice OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-openweather--)
 
    <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
@@ -505,7 +505,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice OpenWeather. [🔝](#index-)
+### Microservice OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/blob/master/doc/assets/img/open-weather.jpg" >

@@ -1,5 +1,5 @@
 <div align = "center">
-<img src="../doc/assets/img/api-rest.jpg" >
+<img src="../doc/assets/img/api-rest.png" >
 </div>
 
 <br>

@@ -15,7 +15,7 @@
 
 <div align="center">
 
-##  <img width="58" height="58" src="./doc/assets/gifs/api-rest.gif" />  Api-Rest & Microservices
+##  <img width="48" height="48" src="./doc/assets/gifs/api-rest.gif" />  Api-Rest & Microservices
 
 </div>
 

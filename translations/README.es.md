@@ -31,7 +31,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   * Servicios AWS: Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, otros.
   * Tecnologías: Nodejs, otras.
   * ORM: Sequelize, TypeORM, otros.
-  * Bases de datos: MySQL, PostgreSQL, DynamoDB, otras.
+  * Bases de datos: MySQL, PostgreSQL, DynamoDB, SQLite, otras.
   * Bibliotecas: Resilience4J, Lombok, dotenv, cors, aws-sdk-v3, nodemon, express-validator, otras.
   * Herramientas: Grafana, VSC, Postman, Maven, nodemon, swagger, Git, otras.
   * Testing: Jest, Supertest, Mocha y Chai.
@@ -51,6 +51,16 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  <br>
 
 #### 🗂️ Projects
+
+* [BGVault Bóveda de credenciales cifradas AES-256-GCM ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#bgvault-bóveda-de-credenciales-cifradas-aes-256-gcm--)
+
+  <div align="left">
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
 
 * [Api Rest sobre dispositivos electrónicos ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-sobre-dispositivos-electronicos--)
 
@@ -270,6 +280,46 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 </div>
 
 <br>
+
+<!------BGVault-Crypto-AES-256-GCM------>
+
+<div align="center">
+  
+### BGVault Bóveda de credenciales cifradas AES-256-GCM ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ 
+<a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank">
+  <img src="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM/blob/master/doc/assets/bgvault-background.png" >
+</a>
+  <div align="right">
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+<!------END BGVault-Crypto-AES-256-GCM------>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
  
 <!------ApiRest_Electronic_Devices_ExpressJS------>

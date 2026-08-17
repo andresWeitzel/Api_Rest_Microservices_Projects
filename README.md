@@ -289,7 +289,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### BGVault Encrypted Credential Vault AES-256-GCM ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
  
 <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank">
-  <img src="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM/blob/master/doc/assets/bgvault-background.png" >
+  <img src="./doc/assets/projects/bgvault.png" >
 </a>
   <div align="right">
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
@@ -330,7 +330,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
  
 <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
-  <img src="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS/blob/master/doc/assets/componentes-example.png" >
+  <img src="./doc/assets/projects/dispositivos-electronicos.png" >
 </a>
   <div align="right">
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
@@ -375,7 +375,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Api Rest for the statistical management of bioethanol production and sales ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
+  <img src="./doc/assets/projects/bioetanol.png" >
   </a>
   <div align="right">
   
@@ -423,7 +423,7 @@ Central repository for Rest API and Microservices type backend projects.
 
   
    <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/assets/img/MicroservicesArquitectura.png" >
+  <img src="./doc/assets/projects/real-estate-microservices.png" >
    </a>
 
  <div align="right">
@@ -472,7 +472,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
+  <img src="./doc/assets/projects/mercadolibre-users.png" >
   </a>
   <div align="right">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
@@ -521,7 +521,7 @@ Central repository for Rest API and Microservices type backend projects.
   ### Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)[🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/medmask" target="_blank">
- <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
+ <img src="./doc/assets/projects/covid-19-medmask.png" >
 </a>
 <div align="right">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
@@ -558,7 +558,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Microservice OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/blob/master/doc/assets/img/open-weather.jpg" >
+  <img src="./doc/assets/projects/openweather.jpg" >
   </a>
 
   
@@ -602,7 +602,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Microservice Paypal Orders [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express/blob/master/doc/assets/img/paypal_api.png" >
+  <img src="./doc/assets/projects/paypal-orders.png" >
   </a> 
 
   <div align="right">
@@ -647,7 +647,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### API Rest orders and shipments [🔝](#index-)
  
    <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
-   <img src="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS/blob/master/doc/assets/nest-example.png" >
+   <img src="./doc/assets/projects/pedidos-envios.png" >
    </a>
 
   <div align="right">
@@ -695,7 +695,7 @@ Central repository for Rest API and Microservices type backend projects.
   ### Api Rest about Generic Electronic Products [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
- <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/ApiRestProductosSpringBoot/CRUD/select/listadoProductos.jpg" >
+ <img src="./doc/assets/projects/productos-spring.jpg" >
 </a>
 
    <div align="right">
@@ -746,7 +746,7 @@ Central repository for Rest API and Microservices type backend projects.
   ### Api Rest for the management of Microcomponents [🔝](#index-)
 
    <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
-   <img src="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot/blob/master/src/main/resources/static/componentes-list.png" >
+   <img src="./doc/assets/projects/microcomponentes.png" >
    </a>
 
   <div align="right">
@@ -791,7 +791,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Centralized Version Control System [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
-  <img src="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs/blob/master/doc/assets/img/centralized.png" >
+  <img src="./doc/assets/projects/version-control.png" >
   </a>
 
   <div align="right">
@@ -833,7 +833,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Microservice for Employee management [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_Employees_NestJS/blob/master/doc/assets/img/Microservice_Employees_NestJS.png" >
+  <img src="./doc/assets/projects/employees.png" >
   </a> 
 
    <div align="right">
@@ -878,7 +878,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Microservice supermarket products [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank">
-<img src="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado/blob/master/doc/img/controllers.png" >
+<img src="./doc/assets/projects/supermarket-products.png" >
 </a>
 
   <div align="right">
@@ -923,7 +923,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Api Rest microelectronics Oracle [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank">
-<img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/doc/img/swagger/doc_openapi_componenteController/listado_componentes.png" >
+<img src="./doc/assets/projects/microelectronica-oracle.png" >
 </a>
 
   <div align="right">
@@ -970,7 +970,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Api Rest ElectroThings v1 [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank">
-<img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/doc/assets/img/controllers/inicioDocSwagger.png" >
+<img src="./doc/assets/projects/electrothings.png" >
 </a>
 
   <div align="right">
@@ -1016,7 +1016,7 @@ Central repository for Rest API and Microservices type backend projects.
 ### Api Rest Productos Agrícolas [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank">
-<img src="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs/blob/master/doc/assets/img/ApiRest_ProductosAgricolas_NodeJs.png" >
+<img src="./doc/assets/projects/productos-agricolas.png" >
 </a>
 
   <div align="right">

@@ -54,10 +54,14 @@ Central repository for Rest API and Microservices type backend projects.
 * [BGVault Encrypted Credential Vault AES-256-GCM ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#bgvault-encrypted-credential-vault-aes-256-gcm--)
 
   <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/nodejs-color.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/express-mark.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/databases/svg/sqlite.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/aes-256-gcm.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/jwt.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/npm.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/svg/github-mark.svg" />
   </div>
 
 
@@ -292,10 +296,14 @@ Central repository for Rest API and Microservices type backend projects.
   <img src="./doc/assets/projects/bgvault.png" >
 </a>
   <div align="right">
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/nodejs-color.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/express-mark.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/databases/svg/sqlite.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/aes-256-gcm.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/jwt.svg" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/npm.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/svg/github-mark.svg" />
   </div>
 
 
@@ -305,8 +313,8 @@ Central repository for Rest API and Microservices type backend projects.
   <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank">
     <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://bgvault.onrender.com" target="_blank">
+    <img width="60" height="60" alt="live demo" src="./doc/assets/icons/social-networks/live.gif" style="display: inline-block;" />
   </a>
 </div>
 

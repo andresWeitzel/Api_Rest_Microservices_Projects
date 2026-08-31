@@ -15,7 +15,7 @@ IMG_STYLE = 'style="vertical-align: middle;"'
 
 
 def normalize_img_tag(tag: str) -> str:
-    tag = re.sub(r"\s+border=\"0\"", "", tag)
+    tag = re.sub(r'\s+border="0"', "", tag)
     tag = re.sub(r'\s+style="[^"]*"', "", tag)
     tag = tag.replace("/>", f' {IMG_STYLE} border="0" />', 1)
     return tag
@@ -30,10 +30,9 @@ def main() -> None:
     for rel in ("README.md", "translations/README.en.md"):
         path = ROOT / rel
         content = path.read_text(encoding="utf-8")
-        content = content.replace("-pill.svg", "-pill.png")
         updated, count = TECH_ROW.subn(space_tech_row, content)
         path.write_text(updated, encoding="utf-8", newline="\n")
-        print(f"updated {rel}: {count} tech rows")
+        print(f"spaced {count} tech rows in {rel}")
 
 
 if __name__ == "__main__":

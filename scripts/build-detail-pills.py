@@ -18,6 +18,7 @@ ICON_BOX = 14
 ICON_GAP = 6
 RADIUS = 8
 FONT_SIZE = 12
+SIDE_GAP = 6
 
 ICONS = {
     "live": (
@@ -58,25 +59,18 @@ def text_width(label: str) -> int:
     return bbox[2] - bbox[0]
 
 
-def pill_width(label: str) -> int:
+def pill_width_for(label: str) -> int:
     return PADDING_X * 2 + ICON_BOX + ICON_GAP + text_width(label) + 2
 
 
-def icon_group(stroke: str) -> str:
-    scale = ICON_BOX / 24
-    x = PADDING_X
-    y = (HEIGHT - ICON_BOX) / 2
-    return (
-        f'<g transform="translate({x:.2f} {y:.2f}) scale({scale:.4f})" '
-        f'fill="none" stroke="{stroke}" stroke-width="2" '
-        f'stroke-linecap="round" stroke-linejoin="round">'
-    )
-
-
 def build_svg(label: str, variant: str, filename: str, *, accent: bool) -> None:
-    width = pill_width(label)
-    text_x = PADDING_X + ICON_BOX + ICON_GAP
+    pill_width = pill_width_for(label)
+    canvas_width = pill_width + (SIDE_GAP * 2)
+    text_x = SIDE_GAP + PADDING_X + ICON_BOX + ICON_GAP
     text_y = HEIGHT / 2 + 4.5
+    icon_x = SIDE_GAP + PADDING_X
+    icon_y = (HEIGHT - ICON_BOX) / 2
+    scale = ICON_BOX / 24
 
     if accent:
         fill = "#122820"
@@ -88,22 +82,26 @@ def build_svg(label: str, variant: str, filename: str, *, accent: bool) -> None:
         foreground = "#9AA4B2"
 
     svg = (
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{HEIGHT}" '
-        f'viewBox="0 0 {width} {HEIGHT}" fill="none" role="img" '
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_width}" height="{HEIGHT}" '
+        f'viewBox="0 0 {canvas_width} {HEIGHT}" fill="none" role="img" '
         f'aria-label="{label}">\n'
-        f'  <rect x="0.5" y="0.5" width="{width - 1}" height="{HEIGHT - 1}" rx="{RADIUS}" '
+        f'  <g transform="translate({SIDE_GAP} 0)">\n'
+        f'    <rect x="0.5" y="0.5" width="{pill_width - 1}" height="{HEIGHT - 1}" rx="{RADIUS}" '
         f'fill="{fill}" stroke="{stroke}"/>\n'
-        f"  {icon_group(foreground)}{ICONS[variant]}</g>\n"
-        f'  <text x="{text_x}" y="{text_y}" fill="{foreground}" '
+        f'    <g transform="translate({icon_x - SIDE_GAP:.2f} {icon_y:.2f}) scale({scale:.4f})" '
+        f'fill="none" stroke="{foreground}" stroke-width="2" '
+        f'stroke-linecap="round" stroke-linejoin="round">{ICONS[variant]}</g>\n'
+        f'    <text x="{text_x - SIDE_GAP}" y="{text_y}" fill="{foreground}" '
         f'font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif" '
         f'font-size="{FONT_SIZE}" font-weight="600">{label}</text>\n'
+        f"  </g>\n"
         f"</svg>\n"
     )
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     path = OUT_DIR / filename
     path.write_text(svg, encoding="utf-8", newline="\n")
-    print(f"saved {path} ({width}x{HEIGHT})")
+    print(f"saved {path} ({canvas_width}x{HEIGHT})")
 
 
 def main() -> None:

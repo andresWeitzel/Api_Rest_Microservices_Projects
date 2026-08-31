@@ -11,8 +11,8 @@ DETAILS_BLOCK = re.compile(
     r'((?:'
     r'(?:<td>\s*)?'
     r'<a href="[^"]*" target="_blank"(?: rel="[^"]*")? title="[^"]*">'
-    r'<img src="[^"]+" alt="[^"]*" height="30"(?: style="[^"]*")? />\s*</a>'
-    r'(?:\s*</td>)?'
+    r'<img src="[^"]+" alt="[^"]*" height="30"(?: border="0")?(?: style="[^"]*")? />\s*</a>'
+    r'(?:\s*</td>)?(?:<!-- -->)?'
     r')+)'
     r'(?:\s*</tr>\s*</table>)?'
     r"\s*</div>",
@@ -22,29 +22,28 @@ DETAILS_BLOCK = re.compile(
 LINK_RE = re.compile(
     r'(?:<td>\s*)?'
     r'<a href="([^"]*)" target="_blank"(?: rel="[^"]*")? title="([^"]*)">'
-    r'<img src="([^"]+)" alt="([^"]*)" height="30"(?: style="[^"]*")? />\s*</a>'
+    r'<img src="([^"]+)" alt="([^"]*)" height="30"(?: border="0")?(?: style="[^"]*")? />\s*</a>'
     r'(?:\s*</td>)?',
     re.MULTILINE,
 )
 
 
-def table_cell(href: str, title: str, src: str, alt: str) -> str:
+def compact_link(href: str, title: str, src: str, alt: str) -> str:
     return (
-        f'<td><a href="{href}" target="_blank" rel="noopener noreferrer" title="{title}">'
-        f'<img src="{src}" alt="{alt}" height="30" /></a></td>'
+        f'<a href="{href}" target="_blank" rel="noopener noreferrer" title="{title}">'
+        f'<img src="{src}" alt="{alt}" height="30" border="0" /></a>'
     )
 
 
 def rebuild_block(match: re.Match[str]) -> str:
     links = LINK_RE.findall(match.group(1))
-    cells = "".join(table_cell(href, title, src, alt) for href, title, src, alt in links)
-    return (
-        '<div align="center">\n'
-        '<table cellpadding="0" cellspacing="8" border="0">\n'
-        f"<tr>{cells}</tr>\n"
-        "</table>\n"
-        "</div>"
-    )
+    parts: list[str] = []
+    for index, link in enumerate(links):
+        if index:
+            parts.append("<!-- -->")
+        parts.append(compact_link(*link))
+    body = "".join(parts)
+    return f'<div align="center">\n{body}\n</div>'
 
 
 def main() -> None:

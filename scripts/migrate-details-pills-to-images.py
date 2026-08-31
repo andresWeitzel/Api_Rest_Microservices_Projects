@@ -52,8 +52,8 @@ PILL_HEIGHT = 30
 
 def render_img_link(href: str, title: str, alt: str, image: str, asset_prefix: str) -> str:
     return (
-        f'<td><a href="{href}" target="_blank" rel="noopener noreferrer" title="{title}">'
-        f'<img src="{asset_prefix}{image}" alt="{alt}" height="{PILL_HEIGHT}" /></a></td>'
+        f'<a href="{href}" target="_blank" rel="noopener noreferrer" title="{title}">'
+        f'<img src="{asset_prefix}{image}" alt="{alt}" height="{PILL_HEIGHT}" border="0" /></a>'
     )
 
 
@@ -102,14 +102,13 @@ def build_block(anchors: list[tuple[str, str, str]], config: dict[str, str]) -> 
                 )
             )
 
-    cells = "".join(buttons)
-    return (
-        '<div align="center">\n'
-        '<table cellpadding="0" cellspacing="8" border="0">\n'
-        f"<tr>{cells}</tr>\n"
-        "</table>\n"
-        "</div>"
-    )
+    parts: list[str] = []
+    for index, button in enumerate(buttons):
+        if index:
+            parts.append("<!-- -->")
+        parts.append(button)
+    body = "".join(parts)
+    return f'<div align="center">\n{body}\n</div>'
 
 
 def replace_block(match: re.Match[str], config: dict[str, str]) -> str:

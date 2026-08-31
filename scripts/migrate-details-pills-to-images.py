@@ -52,9 +52,8 @@ PILL_HEIGHT = 28
 
 def render_img_link(href: str, title: str, alt: str, image: str, asset_prefix: str) -> str:
     return (
-        f'  <a href="{href}" target="_blank" title="{title}">\n'
-        f'    <img src="{asset_prefix}{image}" alt="{alt}" height="{PILL_HEIGHT}" />\n'
-        f"  </a>"
+        f'<a href="{href}" target="_blank" rel="noopener noreferrer" title="{title}">'
+        f'<img src="{asset_prefix}{image}" alt="{alt}" height="{PILL_HEIGHT}" /></a>'
     )
 
 
@@ -103,7 +102,7 @@ def build_block(anchors: list[tuple[str, str, str]], config: dict[str, str]) -> 
                 )
             )
 
-    return '<div align="center">\n' + "\n".join(buttons) + "\n</div>"
+    return '<div align="center">\n' + "".join(buttons) + "\n</div>"
 
 
 def replace_block(match: re.Match[str], config: dict[str, str]) -> str:

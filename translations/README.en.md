@@ -289,7 +289,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
   
-### BGVault Encrypted Credential Vault AES-256-GCM ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### BGVault Encrypted Credential Vault AES-256-GCM ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)
  
 <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank">
   <img src="../doc/assets/projects/bgvault.png" >
@@ -307,12 +307,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://bgvault.onrender.com" target="_blank" rel="noopener noreferrer" title="Watch live" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(46, 233, 168, 0.35); background: rgba(46, 233, 168, 0.12); color: #2ee9a8;">
+    <img src="../doc/assets/icons/detail-actions/external-link.svg" width="14" height="14" alt="" style="display: block;" />
+    Live
   </a>
-  <a href="https://bgvault.onrender.com" target="_blank" title="Watch live">
-    <img width="60" height="60" alt="Watch live" src="../doc/assets/icons/social-networks/live.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
 </div>
 
@@ -333,7 +335,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### Api Rest about microelectronic devices ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Api Rest about microelectronic devices ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)
  
 <a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank">
   <img src="../doc/assets/projects/dispositivos-electronicos.png" >
@@ -352,15 +354,18 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://api-electronic-devices.onrender.com/" target="_blank" rel="noopener noreferrer" title="Watch live" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(46, 233, 168, 0.35); background: rgba(46, 233, 168, 0.12); color: #2ee9a8;">
+    <img src="../doc/assets/icons/detail-actions/external-link.svg" width="14" height="14" alt="" style="display: block;" />
+    Live
   </a>
-  <a href="https://api-electronic-devices.onrender.com/" target="_blank" title="Watch live">
-    <img width="60" height="60" alt="Watch live" src="../doc/assets/icons/social-networks/live.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>
 
@@ -381,7 +386,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### Api Rest for the statistical management of bioethanol production and sales ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Api Rest for the statistical management of bioethanol production and sales ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)
 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="../doc/assets/projects/bioetanol.png" >
@@ -403,12 +408,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>
 
@@ -428,7 +435,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
   
-  ### Real Estate Microservices ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+  ### Real Estate Microservices ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)
 
   
    <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
@@ -452,12 +459,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>
 
@@ -478,7 +487,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### Microservice for mercado libre users management ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Microservice for mercado libre users management ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="../doc/assets/projects/mercadolibre-users.png" >
@@ -499,12 +508,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>
 
@@ -527,7 +538,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
 
-  ### Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](../doc/assets/icons/badges/status-prototype.svg)[🔝](#index-)
+  ### Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](../doc/assets/icons/badges/status-prototype.svg)
 
 <a href="https://github.com/andresWeitzel/medmask" target="_blank">
  <img src="../doc/assets/projects/covid-19-medmask.png" >
@@ -542,9 +553,10 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/medmask" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/medmask" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
 </div>  
 
@@ -564,7 +576,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice OpenWeather ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Microservice OpenWeather ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
   <img src="../doc/assets/projects/openweather.jpg" >
@@ -585,12 +597,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>
 
@@ -608,7 +622,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice Paypal Orders [🔝](#index-)
+### Microservice Paypal Orders
     
   <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
   <img src="../doc/assets/projects/paypal-orders.png" >
@@ -628,12 +642,10 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
-  </a>
-  <a href="" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
 </div>  
   
@@ -653,7 +665,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### API Rest orders and shipments [🔝](#index-)
+### API Rest orders and shipments
  
    <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
    <img src="../doc/assets/projects/pedidos-envios.png" >
@@ -676,12 +688,10 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
-  </a>
-  <a href="" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
 </div>  
 
@@ -701,7 +711,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
      
-  ### Api Rest about Generic Electronic Products [🔝](#index-)
+  ### Api Rest about Generic Electronic Products
 
 <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
  <img src="../doc/assets/projects/productos-spring.jpg" >
@@ -721,12 +731,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>  
 
@@ -752,7 +764,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
 
-  ### Api Rest for the management of Microcomponents [🔝](#index-)
+  ### Api Rest for the management of Microcomponents
 
    <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
    <img src="../doc/assets/projects/microcomponentes.png" >
@@ -773,12 +785,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>  
 
@@ -797,7 +811,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Centralized Version Control System [🔝](#index-)
+### Centralized Version Control System
     
   <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
   <img src="../doc/assets/projects/version-control.png" >
@@ -815,12 +829,10 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
-  </a>
-  <a href="" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
 </div>   
 
@@ -839,7 +851,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice for Employee management [🔝](#index-)
+### Microservice for Employee management
     
   <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
   <img src="../doc/assets/projects/employees.png" >
@@ -858,12 +870,10 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
-  </a>
-  <a href="" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
 </div>   
 
@@ -884,7 +894,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice supermarket products [🔝](#index-)
+### Microservice supermarket products
 
 <a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank">
 <img src="../doc/assets/projects/supermarket-products.png" >
@@ -906,12 +916,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>   
 
@@ -929,7 +941,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
 
-### Api Rest microelectronics Oracle [🔝](#index-)
+### Api Rest microelectronics Oracle
 
 <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank">
 <img src="../doc/assets/projects/microelectronica-oracle.png" >
@@ -950,12 +962,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>   
 
@@ -976,7 +990,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
 
-### Api Rest ElectroThings v1 [🔝](#index-)
+### Api Rest ElectroThings v1
 
 <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank">
 <img src="../doc/assets/projects/electrothings.png" >
@@ -998,12 +1012,14 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
-  <a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank" rel="noopener noreferrer" title="YouTube video" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/youtube.svg" width="14" height="14" alt="" style="display: block;" />
+    Video
   </a>
 </div>   
 
@@ -1022,7 +1038,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
 
-### Api Rest Productos Agrícolas [🔝](#index-)
+### Api Rest Productos Agrícolas
 
 <a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank">
 <img src="../doc/assets/projects/productos-agricolas.png" >
@@ -1042,12 +1058,10 @@ Central repository for Rest API and Microservices type backend projects.
 
  ### Details
 
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank" title="Code">
-    <img width="60" height="60" alt="Code" src="../doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
-  </a>
-  <a href="" target="_blank" title="YouTube">
-    <img width="60" height="60" alt="YouTube" src="../doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+<div align="center" style="margin-top: 4px;">
+  <a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank" rel="noopener noreferrer" title="Code" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; text-decoration: none; vertical-align: middle; margin: 0 4px; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(148, 163, 184, 0.08); color: #9aa4b2;">
+    <img src="../doc/assets/icons/detail-actions/github.svg" width="14" height="14" alt="" style="display: block;" />
+    Code
   </a>
 </div>   
 

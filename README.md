@@ -5,53 +5,54 @@
 <br>
 
 <div align="right">
-     <a href="./translations/README.es.md" target="_blank">
-       <img src="./doc/assets/icons/translation/arg-flag.jpg" width="65" height="40" />
-   </a>
-    <a href="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects" target="_blank">
-       <img src="./doc/assets/icons/translation/eeuu-flag.jpg" width="65" height="40" />
-   </a>
+    <a href="./README.md" target="_blank">
+      <img src="./doc/assets/icons/translation/arg-flag.jpg" width="65" height="40" />
+    </a>
+    <a href="./translations/README.en.md" target="_blank">
+      <img src="./doc/assets/icons/translation/eeuu-flag.jpg" width="65" height="40" />
+    </a>
 </div>
 
-<div align="center">
+<div align = "center">
 
-##  <img width="48" height="48" src="./doc/assets/gifs/api-rest.gif" />  Api-Rest & Microservices
+##  <img width="48" height="48" src="./doc/assets/gifs/api-rest.gif" />  Api-Rest & Microservicios
 
 </div>
 
 <br>
 
-Central repository for Rest API and Microservices type backend projects.
+Repositorio central para proyectos backend tipo Rest API y Microservicios. 
 
 <br>
 
- * Languages : Java, Javascript, Typescript, others.
- * Frameworks : Spring Framework, Serverless, Prometheus, Express, Nestjs, others.
- * Spring modules : Spring Boot, Spring Cloud, Spring Data JPA, others.
- * AWS Services : Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, others.
- * Technologies : Nodejs, others.
- * ORM : Sequelize, TypeORM,  others.
- * Databases : MySQL, PostgreSQL, DynamoDB, SQLite, others.
- * Libraries : Resilience4J, Lombok, dotenv, cors, aws-sdk-v3, nodemon, express-validator, others.
- * Tools : Grafana, VSC, Postman, Maven, nodemon, swagger, Git, others.
- * Testing : Jest, Supertest, Mocha & Chai, others.
+  * Lenguajes: Java, Javascript, Typecript, otros.
+  * Frameworks: Spring Framework, Serverless, Prometheus, Express, Nestjs, otros.
+  * Módulos Spring: Spring Boot, Spring Cloud, Spring Data JPA, otros.
+  * Servicios AWS: Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, otros.
+  * Tecnologías: Nodejs, otras.
+  * ORM: Sequelize, TypeORM, otros.
+  * Bases de datos: MySQL, PostgreSQL, DynamoDB, SQLite, otras.
+  * Bibliotecas: Resilience4J, Lombok, dotenv, cors, aws-sdk-v3, nodemon, express-validator, otras.
+  * Herramientas: Grafana, VSC, Postman, Maven, nodemon, swagger, Git, otras.
+  * Testing: Jest, Supertest, Mocha y Chai.
 
- <br>
+  <br>
  
- <br>
+  <br>
 
-<!------Start Index----->
+<!------Start índice----->
 
-## Index 📜
+## Índice 📜
 
 <details>
- <summary> See </summary>
+  <summary> Ver </summary>
+
 
  <br>
 
 #### 🗂️ Projects
 
-* [BGVault Encrypted Credential Vault AES-256-GCM ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#bgvault-encrypted-credential-vault-aes-256-gcm--)
+* [BGVault Bóveda de credenciales cifradas AES-256-GCM ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#bgvault-bóveda-de-credenciales-cifradas-aes-256-gcm--)
 
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/nodejs-color.svg" />
@@ -61,11 +62,10 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/jwt.svg" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/npm.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/svg/github-mark.svg" />
   </div>
 
 
-* [Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-about-microelectronic-devices--)
+* [Api Rest sobre dispositivos electrónicos ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-sobre-dispositivos-electronicos--)
 
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
@@ -79,7 +79,7 @@ Central repository for Rest API and Microservices type backend projects.
   </div>
 
 
-* [Api Rest for the statistical management of bioethanol ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales--)
+* [Api Rest para la gestión estadística de bioetanol ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-para-la-gestion-estadistica-de-bioetanol--)
   
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
@@ -90,10 +90,10 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
     <img width="27" height="29" src="./doc/assets/icons/aws/png/dynamo.png" />
     <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  </div>     
+  </div>    
 
 
-* [Real estate microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#real-estate-microservices--)
+* [Microservicios sector inmobiliario ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservicios-sector-inmobiliario--)
   
   <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
@@ -107,10 +107,10 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
     <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
-  </div> 
+  </div>
 
 
-* [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
+* [Microservicio para la gestión de usuarios de Mercado Libre ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre--)
   
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
@@ -121,10 +121,9 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
     <img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png" />
     <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
-  </div>   
+  </div>     
 
-
-* [Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)](#collaboration-on-a-project-on-covid-19-coreapi-rest--)
+* [Colaboración en un proyecto sobre Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)](#colaboración-en-un-proyecto-sobre-covid-19-core-api-rest--)
 
   <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
@@ -132,9 +131,9 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
     <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" /> 
     <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
-  </div>   
-  
-* [Microservice OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-openweather--)
+  </div>  
+
+* [Microservicio OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservicio-openweather--) 
 
    <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
@@ -146,7 +145,7 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
-* [Microservice Paypal Orders](#microservice-paypal-orders-)
+* [Microservicio Paypal Orders](#microservicio-paypal-orders-)
 
    <div align="left">
     <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
@@ -157,7 +156,7 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
   </div>  
 
-* [API Rest orders and shipments ](#api-rest-orders-and-shipments-)
+* [API Rest para la gestión de pedidos y envíos](#api-rest-para-la-gestión-de-pedidos-y-envíos-)
 
    <div align="left">
     <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
@@ -169,9 +168,9 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div> 
+  </div>   
 
-* [Api Rest about Generic Electronic Products ](#api-rest-about-generic-electronic-products-)
+* [Api Rest sobre Productos Electrónicos Genéricos](#api-rest-sobre-productos-electrónicos-genéricos-)
 
    <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
@@ -181,9 +180,10 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
-  </div>  
+  </div>     
 
-* [Api Rest for the management of Microcomponents ](#api-rest-for-the-management-of-microcomponents-)
+
+* [Api Rest para la gestión de Microcomponentes](#api-rest-para-la-gestión-de-microcomponentes-)
 
    <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
@@ -192,11 +192,11 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-  </div> 
+  </div>
 
-* [Centralized Version Control System ](#centralized-version-control-system-)
+* [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-)
 
    <div align="left">
     <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
@@ -204,36 +204,37 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>  
+  </div>
 
-
-* [Microservice for Employee management ](#microservice-for-employee-management-)
-
-   <div align="left">
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>  
-
-* [ Microservice supermarket products ](#microservice-supermarket-products-)
+* [Microservicio para la gestión de empleados](#microservicio-para-la-gestión-de-empleados-)
 
    <div align="left">
-    <img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png" /> 
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-  </div> 
+     <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
+     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
+     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+   </div>
 
-* [ Api Rest microelectronics Oracle ](#api-rest-microelectronics-oracle-)
+* [Microservicio productos supermercado](#microservicio-productos-supermercado-)
 
    <div align="left">
+     <img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png" /> 
+     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+     <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+     <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
+     <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
+     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+   </div>
+
+
+
+* [Api Rest microelectrónica Oracle](#api-rest-microelectronica-oracle-)
+
+  <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
     <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
     <img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png" /> 
@@ -241,9 +242,9 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-  </div>   
+  </div>    
 
-* [ Api Rest ElectroThings v1 ](#api-rest-electrothings-v1-)
+* [Api Rest ElectroThings v1](#api-rest-electrothings-v1-)
 
    <div align="left">
     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
@@ -254,9 +255,9 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" />
     <img width="24" height="26" src="./doc/assets/icons/database/png/mongo.png" />  
-  </div> 
+  </div>
 
-* [ Api Rest Productos Agrícolas ](#api-rest-productos-agrícolas-)
+* [Api Rest Productos Agrícolas](#api-rest-productos-agricolas-)
 
    <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/database/png/mongo.png" />
@@ -265,22 +266,19 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" /> 
-  </div>                   
-
-
-
+  </div>
 
 <br>
 
 </details>
 
-<!------Stop Index----->
+<!------Stop índice----->
   
 <br>
   
 <div align="center">
     
- ## 🗂️ Projects
+ ## 🗂️ Proyectos
 
 </div>
 
@@ -290,7 +288,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
   
-### BGVault Encrypted Credential Vault AES-256-GCM ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### BGVault Bóveda de credenciales cifradas AES-256-GCM ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
 <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank">
   <img src="./doc/assets/projects/bgvault.png" >
@@ -303,18 +301,17 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/jwt.svg" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/npm.png" />
     <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/svg/github-mark.svg" />
   </div>
 
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://bgvault.onrender.com" target="_blank">
-    <img width="60" height="60" alt="live demo" src="./doc/assets/icons/social-networks/live.gif" style="display: inline-block;" />
+  <a href="https://bgvault.onrender.com" target="_blank" title="Ver en vivo">
+    <img width="60" height="60" alt="Ver en vivo" src="./doc/assets/icons/social-networks/live.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>
 
@@ -335,9 +332,9 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### Api Rest about microelectronic devices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Api Rest sobre dispositivos electrónicos ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
-<a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
+<a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank">
   <img src="./doc/assets/projects/dispositivos-electronicos.png" >
 </a>
   <div align="right">
@@ -352,19 +349,21 @@ Central repository for Rest API and Microservices type backend projects.
   </div>
 
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://api-electronic-devices.onrender.com/" target="_blank" title="Ver en vivo">
+    <img width="60" height="60" alt="Ver en vivo" src="./doc/assets/icons/social-networks/live.gif" style="display: inline-block; vertical-align: middle;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>
 
 <!------END ApiRest_Electronic_Devices_ExpressJS------>
-
 
 
 <br>
@@ -380,7 +379,7 @@ Central repository for Rest API and Microservices type backend projects.
  
 <div align="center">
   
-### Api Rest for the statistical management of bioethanol production and sales ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Api Rest para la gestión estadística de Bioetanol ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="./doc/assets/projects/bioetanol.png" >
@@ -400,18 +399,16 @@ Central repository for Rest API and Microservices type backend projects.
   
 </div>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>
-
-  
 
 <!------END API_BIOETANOL_DYNAMO------>
 
@@ -427,7 +424,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
   
-  ### Real Estate Microservices ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+  ### Microservicios sector inmobiliario ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
   
    <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
@@ -449,18 +446,16 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
 </div>   
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>
-
-
 
 <!------END SPRING CLOUD REAL ESTATE MICROSERVICES------>
 
@@ -472,12 +467,12 @@ Central repository for Rest API and Microservices type backend projects.
 <br>
 <br>
 
-
+  
  <!------MICROSERVICIO USUARIOS ML AWS------>
  
 <div align="center">
   
-### Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Microservicio para gestión de usuarios de Mercado Libre ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="./doc/assets/projects/mercadolibre-users.png" >
@@ -496,21 +491,20 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
   </div>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>
 
   
 
 <!------FIN MICROSERVICIO USUARIOS ML AWS------>
-
 
 
 <br>
@@ -526,7 +520,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
 
-  ### Collaboration on a Project on Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)[🔝](#index-)
+  ### Colaboración en un proyecto sobre Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg) [🔝](#índice-)
 
 <a href="https://github.com/andresWeitzel/medmask" target="_blank">
  <img src="./doc/assets/projects/covid-19-medmask.png" >
@@ -539,11 +533,11 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
 </div> 
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/medmask" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/medmask" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>  
 
@@ -563,13 +557,13 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Microservicio OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
   <img src="./doc/assets/projects/openweather.jpg" >
-  </a>
+  </a> 
 
-  
+    
 <div align="right">
   <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
   <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
@@ -580,21 +574,23 @@ Central repository for Rest API and Microservices type backend projects.
   <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
 </div>
 
+
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>
 
   
 <!------FIN Microservice OpenWeather Nodejs Jest ------>
+
 
 <br>
 <br>
@@ -607,7 +603,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice Paypal Orders [🔝](#index-)
+### Microservicio Paypal Orders [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
   <img src="./doc/assets/projects/paypal-orders.png" >
@@ -625,14 +621,14 @@ Central repository for Rest API and Microservices type backend projects.
 
   <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>  
   
@@ -646,13 +642,11 @@ Central repository for Rest API and Microservices type backend projects.
 <br>
 <br>
 
-
-
 <!------ApiRest_PedidosYaEnvios_NestJS------>
  
 <div align="center">
   
-### API Rest orders and shipments [🔝](#index-)
+### API Rest para la gestión de pedidos y envíos [🔝](#índice-)
  
    <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
    <img src="./doc/assets/projects/pedidos-envios.png" >
@@ -673,34 +667,31 @@ Central repository for Rest API and Microservices type backend projects.
 
   <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>  
 
 <!------END ApiRest_PedidosYaEnvios_NestJS------>
 
-
-
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-
 
 <!------ Start Api_Rest_Spring_Productos ------>  
  
 <div align="center">
      
-  ### Api Rest about Generic Electronic Products [🔝](#index-)
+  ### Api Rest sobre Productos Electrónicos Genéricos [🔝](#índice-)
 
 <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
  <img src="./doc/assets/projects/productos-spring.jpg" >
@@ -718,14 +709,14 @@ Central repository for Rest API and Microservices type backend projects.
 
   <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>  
 
@@ -746,12 +737,11 @@ Central repository for Rest API and Microservices type backend projects.
 <br>
 <br>
 
-
 <!------ApiRest_Microcomponents_SpringBoot_Oracle------>
 
 <div align="center">
 
-  ### Api Rest for the management of Microcomponents [🔝](#index-)
+  ### Api Rest para la gestión de Microcomponentes [🔝](#índice-)
 
    <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
    <img src="./doc/assets/projects/microcomponentes.png" >
@@ -764,20 +754,20 @@ Central repository for Rest API and Microservices type backend projects.
     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" /> 
     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
   </div>  
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>  
 
@@ -796,7 +786,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Centralized Version Control System [🔝](#index-)
+### Sistema de control de versiones centralizado [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
   <img src="./doc/assets/projects/version-control.png" >
@@ -812,14 +802,14 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>   
 
@@ -838,7 +828,7 @@ Central repository for Rest API and Microservices type backend projects.
   
 <div align="center">
 
-### Microservice for Employee management [🔝](#index-)
+### Microservicio para la gestión de empleados [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
   <img src="./doc/assets/projects/employees.png" >
@@ -855,14 +845,14 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>   
 
@@ -875,60 +865,58 @@ Central repository for Rest API and Microservices type backend projects.
 <br>
 <br>
 <br>
-    
-
-
-
-<!------Start Microservicio_ProductosSupermercado------>
-  
+     
+<!------Start Microservice_Supermarket_Products------>
+   
 <div align="center">
 
-### Microservice supermarket products [🔝](#index-)
+### Microservicio productos supermercado [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank">
+  <img src="./doc/assets/projects/supermarket-products.png" >
+  </a> 
 
-<a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank">
-<img src="./doc/assets/projects/supermarket-products.png" >
-</a>
-
-  <div align="right">
-    <img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png" /> 
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-  </div>  
-
+   <div align="right">
+     <img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png" /> 
+     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
+     <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
+     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
+     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+     <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
+     <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
+     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
+   </div>  
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservicio_ProductosSupermercado" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
-  </a>
+   <a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
+   </a>
+   <a href="" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
+   </a>
 </div>   
+ 
+<!------FIN Microservice_Supermarket_Products------>
 
-<!------End Microservicio_ProductosSupermercado------>
-  
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+    
+
 
 
 <!------Start ApiRest_Microelectronica_SpringBoot_Oracle------>
  
 <div align="center">
 
-### Api Rest microelectronics Oracle [🔝](#index-)
+### Api Rest microelectrónica Oracle [🔝](#índice-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank">
 <img src="./doc/assets/projects/microelectronica-oracle.png" >
@@ -947,14 +935,14 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>   
 
@@ -971,11 +959,10 @@ Central repository for Rest API and Microservices type backend projects.
 
 
 <!------Start ApiRest_ElectroThingsV1_SpringBoot_MongoDB------>  
-
-
+ 
 <div align="center">
 
-### Api Rest ElectroThings v1 [🔝](#index-)
+### Api Rest ElectroThings v1 [🔝](#índice-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank">
 <img src="./doc/assets/projects/electrothings.png" >
@@ -995,16 +982,16 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-</div>   
+</div>
 
 <!------End ApiRest_ElectroThingsV1_SpringBoot_MongoDB------>  
 
@@ -1021,7 +1008,7 @@ Central repository for Rest API and Microservices type backend projects.
 
 <div align="center">
 
-### Api Rest Productos Agrícolas [🔝](#index-)
+### Api Rest Productos Agrícolas [🔝](#índice-)
 
 <a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank">
 <img src="./doc/assets/projects/productos-agricolas.png" >
@@ -1039,15 +1026,22 @@ Central repository for Rest API and Microservices type backend projects.
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
+  <a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank" title="Código">
+    <img width="60" height="60" alt="Código" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  <a href="" target="_blank" title="YouTube">
+    <img width="60" height="60" alt="YouTube" src="./doc/assets/icons/social-networks/youtubeLogo.gif" style="display: inline-block; vertical-align: middle;" />
   </a>
 </div>   
 
 <!------End ApiRest_ProductosAgricolas_NodeJs------>  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

@@ -54,219 +54,78 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 
 * [BGVault Gestor de credenciales cifradas AES-256-GCM ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#bgvault-gestor-de-credenciales-cifradas-aes-256-gcm--)
 
-  <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/nodejs-color.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/express-mark.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/databases/svg/sqlite.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/aes-256-gcm.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/jwt.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/npm.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
-  </div>
+  <div align="left"><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/nodejs-color.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/express-mark.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/databases/svg/sqlite.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/aes-256-gcm.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/jwt.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/npm.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  border="0" /></div>
 
 
 * [Api Rest sobre dispositivos electrónicos ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-sobre-dispositivos-electronicos--)
 
-  <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
-  </div>
+  <div align="left"><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  border="0" /></div>
 
 
 * [Api Rest para la gestión estadística de bioetanol ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-para-la-gestion-estadistica-de-bioetanol--)
   
-  <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="29" src="./doc/assets/icons/aws/png/dynamo.png" />
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  </div>    
+  <div align="left"><img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png"  border="0" /><!-- --><img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="27" height="29" src="./doc/assets/icons/aws/png/dynamo.png"  border="0" /><!-- --><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /></div>    
 
 
 * [Microservicios sector inmobiliario ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservicios-sector-inmobiliario--)
   
-  <div align="left">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/grafana.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/prometheus.png" />  
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/junit.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
-    <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
-  </div>
+  <div align="left"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/grafana.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/prometheus.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/junit.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-cloud.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png"  border="0" /></div>
 
 
 * [Microservicio para la gestión de usuarios de Mercado Libre ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre--)
   
-  <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png" />
-    <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
-  </div>     
+  <div align="left"><img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png"  border="0" /><!-- --><img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png"  border="0" /><!-- --><img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png"  border="0" /><!-- --><img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png"  border="0" /></div>     
 
 * [Colaboración en un proyecto sobre Covid-19 Core/Api-Rest ![(status-prototype)](./doc/assets/icons/badges/status-prototype.svg)](#colaboración-en-un-proyecto-sobre-covid-19-core-api-rest--)
 
-  <div align="left">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" /> 
-    <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
-  </div>  
+  <div align="left"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png"  border="0" /></div>  
 
 * [Microservicio OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservicio-openweather--) 
 
-   <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  </div>
+   <div align="left"><img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png"  border="0" /><!-- --><img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /></div>
 
 * [Microservicio Paypal Orders](#microservicio-paypal-orders-)
 
-   <div align="left">
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="24" height="24" src="./doc/assets/icons/integrations/png/paypal.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-  </div>  
+   <div align="left"><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="24" height="24" src="./doc/assets/icons/integrations/png/paypal.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /></div>  
 
 * [API Rest para la gestión de pedidos y envíos](#api-rest-para-la-gestión-de-pedidos-y-envíos-)
 
-   <div align="left">
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="24" height="24" src="./doc/assets/icons/database/png/postgres.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>   
+   <div align="left"><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="24" height="24" src="./doc/assets/icons/database/png/postgres.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /></div>   
 
 * [Api Rest sobre Productos Electrónicos Genéricos](#api-rest-sobre-productos-electrónicos-genéricos-)
 
-   <div align="left">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
-  </div>     
+   <div align="left"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  border="0" /></div>     
 
 
 * [Api Rest para la gestión de Microcomponentes](#api-rest-para-la-gestión-de-microcomponentes-)
 
-   <div align="left">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png" /> 
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-  </div>
+   <div align="left"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /></div>
 
 * [Sistema de control de versiones centralizado](#sistema-de-control-de-versiones-centralizado-)
 
-   <div align="left">
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>
+   <div align="left"><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /></div>
 
 * [Microservicio para la gestión de empleados](#microservicio-para-la-gestión-de-empleados-)
 
-   <div align="left">
-     <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
-     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
-     <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-   </div>
+   <div align="left"><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /></div>
 
 * [Microservicio productos supermercado](#microservicio-productos-supermercado-)
 
-   <div align="left">
-     <img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png" /> 
-     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-     <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-     <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
-     <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
-     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-   </div>
+   <div align="left"><img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png"  border="0" /><!-- --><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /></div>
 
 
 
 * [Api Rest microelectrónica Oracle](#api-rest-microelectronica-oracle-)
 
-  <div align="left">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png" /> 
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-  </div>    
+  <div align="left"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /></div>    
 
 * [Api Rest ElectroThings v1](#api-rest-electrothings-v1-)
 
-   <div align="left">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" />
-    <img width="24" height="26" src="./doc/assets/icons/database/png/mongo.png" />  
-  </div>
+   <div align="left"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png"  border="0" /><!-- --><img width="24" height="26" src="./doc/assets/icons/database/png/mongo.png"  border="0" /></div>
 
 * [Api Rest Productos Agrícolas](#api-rest-productos-agricolas-)
 
-   <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mongo.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" /> 
-  </div>
+   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/mongo.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  border="0" /></div>
 
 <br>
 
@@ -293,21 +152,13 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 <a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank">
   <img src="./doc/assets/projects/bgvault.png" >
 </a>
-  <div align="right">
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/nodejs-color.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/express-mark.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/databases/svg/sqlite.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/aes-256-gcm.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/jwt.svg" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/npm.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
-  </div>
+  <div align="right"><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/nodejs-color.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/svg/express-mark.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/databases/svg/sqlite.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/aes-256-gcm.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/crypto/svg/jwt.svg"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/npm.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  border="0" /></div>
 
 
  ### Detalles
 
 <div align="center">
-<a href="https://bgvault.onrender.com" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.svg" alt="Live" height="30" border="0" /></a><!-- --><a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a>
+<a href="https://bgvault.onrender.com" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.png" alt="Live" height="30" border="0" /></a><!-- --><a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
 </div>
 
 <!------END BGVault-Crypto-AES-256-GCM------>
@@ -332,22 +183,13 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 <a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank">
   <img src="./doc/assets/projects/dispositivos-electronicos.png" >
 </a>
-  <div align="right">
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" />
-  </div>
+  <div align="right"><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  border="0" /></div>
 
 
  ### Detalles
 
 <div align="center">
-<a href="https://api-electronic-devices.onrender.com/" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.svg" alt="Live" height="30" border="0" /></a><!-- --><a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://api-electronic-devices.onrender.com/" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.png" alt="Live" height="30" border="0" /></a><!-- --><a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>
 
 <!------END ApiRest_Electronic_Devices_ExpressJS------>
@@ -371,25 +213,12 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="./doc/assets/projects/bioetanol.png" >
   </a>
-  <div align="right">
-  
-  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="27" height="29" src="./doc/assets/icons/aws/png/dynamo.png" />
-  <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  <img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png" />
-  
-</div>
+  <div align="right"><img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png"  border="0" /><!-- --><img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="27" height="29" src="./doc/assets/icons/aws/png/dynamo.png"  border="0" /><!-- --><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png"  border="0" /></div>
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>
 
 <!------END API_BIOETANOL_DYNAMO------>
@@ -413,25 +242,12 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   <img src="./doc/assets/projects/real-estate-microservices.png" >
    </a>
 
- <div align="right">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/grafana.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/prometheus.png" />  
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/junit.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-cloud.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
-    <img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png" />
-</div>   
+ <div align="right"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/grafana.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/prometheus.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/junit.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-cloud.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png"  border="0" /></div>   
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>
 
 <!------END SPRING CLOUD REAL ESTATE MICROSERVICES------>
@@ -454,24 +270,12 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="./doc/assets/projects/mercadolibre-users.png" >
   </a>
-  <div align="right">
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png" />
-    <img width="30" height="30" src="./doc/assets/icons/devops/png/vsc.png" />
-    <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
-  </div>
+  <div align="right"><img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png"  border="0" /><!-- --><img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png"  border="0" /><!-- --><img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png"  border="0" /><!-- --><img width="30" height="30" src="./doc/assets/icons/devops/png/vsc.png"  border="0" /><!-- --><img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png"  border="0" /></div>
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>
 
   
@@ -497,18 +301,12 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 <a href="https://github.com/andresWeitzel/medmask" target="_blank">
  <img src="./doc/assets/projects/covid-19-medmask.png" >
 </a>
-<div align="right">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" /> 
-    <img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png" /> 
-</div> 
+<div align="right"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/java/png/netbeans.png"  border="0" /></div> 
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/medmask" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/medmask" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
 </div>  
 
  <!------ END COVID-19 CORE API REST ------>  
@@ -534,15 +332,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   </a> 
 
     
-<div align="right">
-  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-</div>
+<div align="right"><img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png"  border="0" /><!-- --><img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /></div>
 
 
 <br>
@@ -550,7 +340,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>
 
   
@@ -574,14 +364,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   <img src="./doc/assets/projects/paypal-orders.png" >
   </a> 
 
-  <div align="right">
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="24" height="24" src="./doc/assets/icons/integrations/png/paypal.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-  </div>
+  <div align="right"><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="24" height="24" src="./doc/assets/icons/integrations/png/paypal.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /></div>
 
 
   <br>
@@ -589,7 +372,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
 </div>  
   
 <!------FIN Microservice_Paypal_Orders_Express ------>
@@ -612,17 +395,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
    <img src="./doc/assets/projects/pedidos-envios.png" >
    </a>
 
-  <div align="right">
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="24" height="24" src="./doc/assets/icons/database/png/postgres.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>
+  <div align="right"><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="24" height="24" src="./doc/assets/icons/database/png/postgres.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /></div>
 
 
   <br>
@@ -630,7 +403,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
 </div>  
 
 <!------END ApiRest_PedidosYaEnvios_NestJS------>
@@ -652,22 +425,14 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  <img src="./doc/assets/projects/productos-spring.jpg" >
 </a>
 
-   <div align="right">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png" />  
-  </div>  
+   <div align="right"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  border="0" /></div>  
 
   <br>
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>  
 
 
@@ -697,23 +462,14 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
    <img src="./doc/assets/projects/microcomponentes.png" >
    </a>
 
-  <div align="right">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png" /> 
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-  </div>  
+  <div align="right"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /></div>  
 
 <br>
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>  
 
 
@@ -737,20 +493,14 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   <img src="./doc/assets/projects/version-control.png" >
   </a>
 
-  <div align="right">
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div> 
+  <div align="right"><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /></div> 
 
 <br>
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
 </div>   
 
   
@@ -774,21 +524,14 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   <img src="./doc/assets/projects/employees.png" >
   </a> 
 
-   <div align="right">
-    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  </div>  
+   <div align="right"><img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typeorm.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nestjs.png"  border="0" /><!-- --><img width="29" height="27" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /></div>  
 
 <br>
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
 </div>   
 
 <!------FIN Microservice_Employees_NestJS   ------>
@@ -811,23 +554,14 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
   <img src="./doc/assets/projects/supermarket-products.png" >
   </a> 
 
-   <div align="right">
-     <img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png" /> 
-     <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-     <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-     <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-     <img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png" />
-     <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
-     <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-   </div>  
+   <div align="right"><img width="24" height="26" src="./doc/assets/icons/database/png/postgres.png"  border="0" /><!-- --><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/apache-tomcat.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /></div>  
 
 <br>
 
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
 </div>   
  
 <!------FIN Microservice_Supermarket_Products------>
@@ -852,15 +586,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 <img src="./doc/assets/projects/microelectronica-oracle.png" >
 </a>
 
-  <div align="right">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png" /> 
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" /> 
-  </div>  
+  <div align="right"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="24" height="26" src="./doc/assets/icons/database/png/oracle.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /></div>  
 
 
 <br>
@@ -868,7 +594,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>   
 
 
@@ -893,16 +619,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 <img src="./doc/assets/projects/electrothings.png" >
 </a>
 
-  <div align="right">
-    <img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png" />
-    <img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png" />
-    <img width="26" height="26" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" /> 
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png" />
-    <img width="24" height="26" src="./doc/assets/icons/database/png/mongo.png" />  
-  </div>  
+  <div align="right"><img width="28" height="30" src="./doc/assets/icons/backend/java/png/java.png"  border="0" /><!-- --><img width="22" height="24" src="./doc/assets/icons/devops/png/maven.png"  border="0" /><!-- --><img width="26" height="26" src="./doc/assets/icons/devops/png/git.png"  border="0" /><!-- --><img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-boot.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/java/png/spring-security.png"  border="0" /><!-- --><img width="24" height="26" src="./doc/assets/icons/database/png/mongo.png"  border="0" /></div>  
 
 
 <br>
@@ -910,7 +627,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>
 
 <!------End ApiRest_ElectroThingsV1_SpringBoot_MongoDB------>  
@@ -934,14 +651,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
 <img src="./doc/assets/projects/productos-agricolas.png" >
 </a>
 
-  <div align="right">
-    <img width="25" height="25" src="./doc/assets/icons/database/png/mongo.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" /> 
-  </div>  
+  <div align="right"><img width="25" height="25" src="./doc/assets/icons/database/png/mongo.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/swagger.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/express-js.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  border="0" /><!-- --><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  border="0" /></div>  
 
 
 <br>
@@ -949,7 +659,7 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
 </div>   
 
 <!------End ApiRest_ProductosAgricolas_NodeJs------>  

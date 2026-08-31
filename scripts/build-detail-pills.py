@@ -2,15 +2,11 @@ from __future__ import annotations
 
 from pathlib import Path
 
+import pymupdf as fitz
 from PIL import Image, ImageDraw, ImageFont
 
 OUT_DIR = Path("doc/assets/icons/detail-actions")
-
-FONT_CANDIDATES = (
-    "C:/Windows/Fonts/segoeuib.ttf",
-    "C:/Windows/Fonts/arialbd.ttf",
-    "C:/Windows/Fonts/calibrib.ttf",
-)
+PNG_SCALE = 3
 
 HEIGHT = 30
 PADDING_X = 12
@@ -19,6 +15,12 @@ ICON_GAP = 6
 RADIUS = 8
 FONT_SIZE = 12
 SIDE_GAP = 6
+
+FONT_CANDIDATES = (
+    "C:/Windows/Fonts/segoeuib.ttf",
+    "C:/Windows/Fonts/arialbd.ttf",
+    "C:/Windows/Fonts/calibrib.ttf",
+)
 
 ICONS = {
     "live": (
@@ -35,9 +37,6 @@ ICONS = {
         '<path d="m10 15 5-3-5-3z"/>'
     ),
 }
-
-# Approximate Segoe UI semibold widths at 12px (fallback).
-CHAR_WIDTH = 6.55
 
 
 def load_font(size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
@@ -63,9 +62,9 @@ def pill_width_for(label: str) -> int:
     return PADDING_X * 2 + ICON_BOX + ICON_GAP + text_width(label) + 2
 
 
-def build_svg(label: str, variant: str, filename: str, *, accent: bool) -> None:
-    pill_width = pill_width_for(label)
-    canvas_width = pill_width + (SIDE_GAP * 2)
+def build_svg(label: str, variant: str, *, accent: bool) -> str:
+    pill_w = pill_width_for(label)
+    canvas_width = pill_w + (SIDE_GAP * 2)
     text_x = SIDE_GAP + PADDING_X + ICON_BOX + ICON_GAP
     text_y = HEIGHT / 2 + 4.5
     icon_x = SIDE_GAP + PADDING_X
@@ -81,12 +80,12 @@ def build_svg(label: str, variant: str, filename: str, *, accent: bool) -> None:
         stroke = "#3D4450"
         foreground = "#9AA4B2"
 
-    svg = (
+    return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_width}" height="{HEIGHT}" '
         f'viewBox="0 0 {canvas_width} {HEIGHT}" fill="none" role="img" '
         f'aria-label="{label}">\n'
         f'  <g transform="translate({SIDE_GAP} 0)">\n'
-        f'    <rect x="0.5" y="0.5" width="{pill_width - 1}" height="{HEIGHT - 1}" rx="{RADIUS}" '
+        f'    <rect x="0.5" y="0.5" width="{pill_w - 1}" height="{HEIGHT - 1}" rx="{RADIUS}" '
         f'fill="{fill}" stroke="{stroke}"/>\n'
         f'    <g transform="translate({icon_x - SIDE_GAP:.2f} {icon_y:.2f}) scale({scale:.4f})" '
         f'fill="none" stroke="{foreground}" stroke-width="2" '
@@ -98,17 +97,29 @@ def build_svg(label: str, variant: str, filename: str, *, accent: bool) -> None:
         f"</svg>\n"
     )
 
+
+def export_png(svg_path: Path, png_path: Path) -> None:
+    document = fitz.open(str(svg_path))
+    pixmap = document[0].get_pixmap(matrix=fitz.Matrix(PNG_SCALE, PNG_SCALE), alpha=True)
+    pixmap.save(str(png_path))
+    document.close()
+
+
+def build_pill(label: str, variant: str, svg_name: str, png_name: str, *, accent: bool) -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    path = OUT_DIR / filename
-    path.write_text(svg, encoding="utf-8", newline="\n")
-    print(f"saved {path} ({canvas_width}x{HEIGHT})")
+    svg_path = OUT_DIR / svg_name
+    png_path = OUT_DIR / png_name
+
+    svg_path.write_text(build_svg(label, variant, accent=accent), encoding="utf-8", newline="\n")
+    export_png(svg_path, png_path)
+    print(f"saved {svg_path.name} + {png_path.name}")
 
 
 def main() -> None:
-    build_svg("Live", "live", "live-pill.svg", accent=True)
-    build_svg("Código", "code", "codigo-pill.svg", accent=False)
-    build_svg("Code", "code", "code-pill.svg", accent=False)
-    build_svg("Video", "video", "video-pill.svg", accent=False)
+    build_pill("Live", "live", "live-pill.svg", "live-pill.png", accent=True)
+    build_pill("Código", "code", "codigo-pill.svg", "codigo-pill.png", accent=False)
+    build_pill("Code", "code", "code-pill.svg", "code-pill.png", accent=False)
+    build_pill("Video", "video", "video-pill.svg", "video-pill.png", accent=False)
 
 
 if __name__ == "__main__":

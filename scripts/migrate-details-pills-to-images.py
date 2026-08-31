@@ -8,8 +8,8 @@ ROOT = Path(__file__).resolve().parents[1]
 FILES = {
     ROOT / "README.md": {
         "asset_prefix": "./doc/assets/icons/detail-actions/",
-        "live_img": "live-pill.svg",
-        "code_img": "codigo-pill.svg",
+        "live_img": "live-pill.png",
+        "code_img": "codigo-pill.png",
         "live_title": "Ver en vivo",
         "code_title": "Código",
         "video_title": "Video en YouTube",
@@ -19,8 +19,8 @@ FILES = {
     },
     ROOT / "translations" / "README.en.md": {
         "asset_prefix": "../doc/assets/icons/detail-actions/",
-        "live_img": "live-pill.svg",
-        "code_img": "code-pill.svg",
+        "live_img": "live-pill.png",
+        "code_img": "code-pill.png",
         "live_title": "Watch live",
         "code_title": "Code",
         "video_title": "YouTube video",
@@ -97,7 +97,7 @@ def build_block(anchors: list[tuple[str, str, str]], config: dict[str, str]) -> 
                     href,
                     config["video_title"],
                     config["video_alt"],
-                    "video-pill.svg",
+                    "video-pill.png",
                     asset_prefix,
                 )
             )

@@ -307,7 +307,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://bgvault.onrender.com" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.svg" alt="Live" height="30" /></a><a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://bgvault.onrender.com" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.svg" alt="Live" height="30" /></a></td><td><a href="https://github.com/andresWeitzel/BGVault-Crypto-AES-256-GCM" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td></tr>
+</table>
 </div>
 
 <!------END BGVault-Crypto-AES-256-GCM------>
@@ -347,7 +349,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://api-electronic-devices.onrender.com/" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.svg" alt="Live" height="30" /></a><a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://api-electronic-devices.onrender.com/" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.svg" alt="Live" height="30" /></a></td><td><a href="https://github.com/andresWeitzel/ApiRest_Electronic_Devices_ExpressJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLAizKGgiChAKBJx1V19Fo" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>
 
 <!------END ApiRest_Electronic_Devices_ExpressJS------>
@@ -389,7 +393,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>
 
 <!------END API_BIOETANOL_DYNAMO------>
@@ -431,7 +437,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>
 
 <!------END SPRING CLOUD REAL ESTATE MICROSERVICES------>
@@ -471,7 +479,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>
 
   
@@ -508,7 +518,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/medmask" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/medmask" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td></tr>
+</table>
 </div>  
 
  <!------ END COVID-19 CORE API REST ------>  
@@ -550,7 +562,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>
 
   
@@ -589,7 +603,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td></tr>
+</table>
 </div>  
   
 <!------FIN Microservice_Paypal_Orders_Express ------>
@@ -630,7 +646,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td></tr>
+</table>
 </div>  
 
 <!------END ApiRest_PedidosYaEnvios_NestJS------>
@@ -667,7 +685,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCf-3L-d9kDVD-VhpkgxxuC" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>  
 
 
@@ -713,7 +733,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDnmm7zqPOgpPu0fAuOHa9S" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>  
 
 
@@ -750,7 +772,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td></tr>
+</table>
 </div>   
 
   
@@ -788,7 +812,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Microservice_Employees_NestJS" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td></tr>
+</table>
 </div>   
 
 <!------FIN Microservice_Employees_NestJS   ------>
@@ -827,7 +853,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/Microservice_Supermarket_Products" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td></tr>
+</table>
 </div>   
  
 <!------FIN Microservice_Supermarket_Products------>
@@ -868,7 +896,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>   
 
 
@@ -910,7 +940,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a><a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td><td><a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.svg" alt="Video" height="30" /></a></td></tr>
+</table>
 </div>
 
 <!------End ApiRest_ElectroThingsV1_SpringBoot_MongoDB------>  
@@ -949,7 +981,9 @@ Repositorio central para proyectos backend tipo Rest API y Microservicios.
  ### Detalles
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a>
+<table cellpadding="0" cellspacing="8" border="0">
+<tr><td><a href="https://github.com/andresWeitzel/ApiRest_ProductosAgricolas_NodeJs" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.svg" alt="Código" height="30" /></a></td></tr>
+</table>
 </div>   
 
 <!------End ApiRest_ProductosAgricolas_NodeJs------>  

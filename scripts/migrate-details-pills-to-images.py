@@ -47,13 +47,13 @@ ANCHOR_RE = re.compile(
     re.MULTILINE,
 )
 
-PILL_HEIGHT = 28
+PILL_HEIGHT = 30
 
 
 def render_img_link(href: str, title: str, alt: str, image: str, asset_prefix: str) -> str:
     return (
-        f'<a href="{href}" target="_blank" rel="noopener noreferrer" title="{title}">'
-        f'<img src="{asset_prefix}{image}" alt="{alt}" height="{PILL_HEIGHT}" /></a>'
+        f'<td><a href="{href}" target="_blank" rel="noopener noreferrer" title="{title}">'
+        f'<img src="{asset_prefix}{image}" alt="{alt}" height="{PILL_HEIGHT}" /></a></td>'
     )
 
 
@@ -102,7 +102,14 @@ def build_block(anchors: list[tuple[str, str, str]], config: dict[str, str]) -> 
                 )
             )
 
-    return '<div align="center">\n' + "".join(buttons) + "\n</div>"
+    cells = "".join(buttons)
+    return (
+        '<div align="center">\n'
+        '<table cellpadding="0" cellspacing="8" border="0">\n'
+        f"<tr>{cells}</tr>\n"
+        "</table>\n"
+        "</div>"
+    )
 
 
 def replace_block(match: re.Match[str], config: dict[str, str]) -> str:
